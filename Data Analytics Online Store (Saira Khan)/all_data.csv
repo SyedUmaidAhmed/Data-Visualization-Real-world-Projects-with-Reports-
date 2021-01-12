@@ -1,0 +1,1945 @@
+Sales Representative,Location,Region,Customer,Order Date,Item,Quantity,Price,Total Sale Amount
+Patrick Graham,Washington,West,Jeremy Baker,2016/04/01,Junk,8,12.42,99.36
+Frances Warren,New Jersey,East,Albert Dunn,2016/04/01,Widgets,9,53.35,480.15
+Sara Snyder,New York,East,Robert Hayes,2016/04/01,Junk,4,12.42,49.68
+Randy Watson,New York,East,Cheryl Riley,2016/04/01,Widgets,5,53.35,266.75
+Randy Watson,New Jersey,East,Kimberly Coleman,2016/04/01,Widgets,2,53.35,106.7
+Patrick Graham,Oregon,West,Clarence Bishop,2016/04/01,Stuff,6,16.32,97.92
+Diane Gonzalez,Washington,West,Judy Sanchez,2016/04/01,Stuff,8,16.32,130.56
+Patrick Graham,Oregon,West,Gloria Mcdonald,2016/04/02,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Gary Moreno,2016/04/02,Things,7,17.83,124.81
+Frances Warren,New Jersey,East,Kimberly Coleman,2016/04/02,Stuff,7,16.32,114.24
+Diane Gonzalez,Washington,West,Joan Austin,2016/04/02,Widgets,3,53.35,160.05
+Diane Gonzalez,California,West,Frank Garrett,2016/04/02,Widgets,9,53.35,480.15
+Frances Warren,New York,East,Helen Dean,2016/04/02,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Robert Collins,2016/04/02,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Janice Jackson,2016/04/02,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Philip Rodriguez,2016/04/02,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Anthony Berry,2016/04/02,Stuff,3,16.32,48.96
+Randy Watson,Connecticut,East,Sara Hawkins,2016/04/02,Widgets,10,53.35,533.5
+Sara Snyder,New York,East,Cynthia Brooks,2016/04/02,Widgets,4,53.35,213.4
+Diane Gonzalez,Oregon,West,Gary Moreno,2016/04/02,Things,1,17.83,17.83
+Sara Snyder,Connecticut,East,Raymond Clark,2016/04/02,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Lillian Burke,2016/04/03,Junk,5,12.42,62.1
+Randy Watson,Massachusetts,East,Alice Davis,2016/04/03,Things,7,17.83,124.81
+Sara Snyder,New York,East,Helen Dean,2016/04/03,Junk,5,12.42,62.1
+Frances Warren,Massachusetts,East,Joan Cooper,2016/04/03,Things,1,17.83,17.83
+Diane Gonzalez,Washington,West,Joseph Willis,2016/04/03,Stuff,6,16.32,97.92
+Patrick Graham,Washington,West,Craig Reyes,2016/04/03,Stuff,3,16.32,48.96
+Randy Watson,New York,East,Juan Reed,2016/04/03,Junk,5,12.42,62.1
+Diane Gonzalez,Nevada,West,Laura Mcdonald,2016/04/03,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Harold Daniels,2016/04/03,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Joshua Diaz,2016/04/03,Things,1,17.83,17.83
+Diane Gonzalez,Washington,West,Stephen Murray,2016/04/04,Widgets,1,53.35,53.35
+Randy Watson,Massachusetts,East,Eric Robertson,2016/04/04,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Michelle Allen,2016/04/04,Stuff,4,16.32,65.28
+Frances Warren,Connecticut,East,Benjamin Phillips,2016/04/04,Things,8,17.83,142.64
+Diane Gonzalez,California,West,Gerald Mcdonald,2016/04/04,Things,3,17.83,53.49
+Sara Snyder,New Jersey,East,Maria Hughes,2016/04/04,Junk,7,12.42,86.94
+Randy Watson,New York,East,Lawrence Ruiz,2016/04/04,Widgets,8,53.35,426.8
+Sara Snyder,Massachusetts,East,Susan Watkins,2016/04/04,Widgets,7,53.35,373.45
+Sara Snyder,Connecticut,East,Clarence Mason,2016/04/04,Widgets,10,53.35,533.5
+Sara Snyder,New York,East,Gloria Harper,2016/04/05,Stuff,1,16.32,16.32
+Sara Snyder,New Jersey,East,Dorothy Baker,2016/04/05,Things,7,17.83,124.81
+Patrick Graham,Washington,West,Shirley Chavez,2016/04/05,Stuff,6,16.32,97.92
+Diane Gonzalez,Washington,West,Jennifer Adams,2016/04/05,Widgets,2,53.35,106.7
+Randy Watson,Connecticut,East,Irene Franklin,2016/04/05,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Kevin Torres,2016/04/05,Widgets,3,53.35,160.05
+Diane Gonzalez,California,West,Nicholas Nguyen,2016/04/05,Stuff,5,16.32,81.6
+Sara Snyder,New York,East,Nancy Stephens,2016/04/05,Widgets,3,53.35,160.05
+Randy Watson,New Jersey,East,Cynthia Lewis,2016/04/05,Junk,7,12.42,86.94
+Randy Watson,New Jersey,East,Harold Matthews,2016/04/05,Widgets,3,53.35,160.05
+Randy Watson,New Jersey,East,Ruth Fields,2016/04/05,Junk,2,12.42,24.84
+Patrick Graham,Oregon,West,Carl Lawson,2016/04/05,Stuff,4,16.32,65.28
+Patrick Graham,California,West,Benjamin Carpenter,2016/04/05,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Aaron Morris,2016/04/05,Widgets,8,53.35,426.8
+Randy Watson,New York,East,Lillian Wood,2016/04/05,Things,1,17.83,17.83
+Sara Snyder,New York,East,Irene Wells,2016/04/06,Stuff,4,16.32,65.28
+Sara Snyder,Massachusetts,East,Eugene Schmidt,2016/04/06,Widgets,4,53.35,213.4
+Frances Warren,New York,East,Randy Burton,2016/04/06,Junk,4,12.42,49.68
+Frances Warren,New York,East,Louis Marshall,2016/04/06,Things,4,17.83,71.32
+Frances Warren,Massachusetts,East,Ann Duncan,2016/04/06,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Katherine Hayes,2016/04/06,Junk,6,12.42,74.52
+Patrick Graham,Washington,West,Arthur Green,2016/04/06,Widgets,6,53.35,320.1
+Patrick Graham,Oregon,West,Martha Harper,2016/04/06,Widgets,9,53.35,480.15
+Diane Gonzalez,California,West,Andrew Adams,2016/04/06,Stuff,6,16.32,97.92
+Randy Watson,New Jersey,East,Rebecca Williams,2016/04/06,Stuff,1,16.32,16.32
+Patrick Graham,Oregon,West,Marilyn Franklin,2016/04/06,Junk,6,12.42,74.52
+Randy Watson,Massachusetts,East,Eugene Hughes,2016/04/07,Widgets,6,53.35,320.1
+Patrick Graham,Oregon,West,Gloria Fisher,2016/04/07,Things,7,17.83,124.81
+Sara Snyder,New Jersey,East,Jacqueline Wheeler,2016/04/07,Widgets,3,53.35,160.05
+Diane Gonzalez,California,West,Dennis Fields,2016/04/07,Widgets,9,53.35,480.15
+Randy Watson,Connecticut,East,Debra Gutierrez,2016/04/07,Things,6,17.83,106.98
+Patrick Graham,Washington,West,Michelle Allen,2016/04/07,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/04/07,Widgets,7,53.35,373.45
+Sara Snyder,New Jersey,East,Edward Wells,2016/04/07,Junk,8,12.42,99.36
+Patrick Graham,Oregon,West,Teresa Payne,2016/04/07,Stuff,2,16.32,32.64
+Sara Snyder,New York,East,Anna Wheeler,2016/04/07,Junk,3,12.42,37.26
+Randy Watson,Massachusetts,East,Shirley Rivera,2016/04/07,Junk,6,12.42,74.52
+Patrick Graham,Oregon,West,Roger Bell,2016/04/07,Junk,1,12.42,12.42
+Patrick Graham,Washington,West,Denise Henry,2016/04/07,Junk,1,12.42,12.42
+Diane Gonzalez,Washington,West,Terry Nguyen,2016/04/08,Junk,6,12.42,74.52
+Patrick Graham,California,West,Howard Nelson,2016/04/08,Junk,5,12.42,62.1
+Randy Watson,New York,East,Emily Patterson,2016/04/08,Junk,4,12.42,49.68
+Randy Watson,Massachusetts,East,Roy Rivera,2016/04/08,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Kenneth Lane,2016/04/08,Widgets,2,53.35,106.7
+Patrick Graham,Oregon,West,Kenneth West,2016/04/08,Things,7,17.83,124.81
+Frances Warren,New Jersey,East,Cheryl Howard,2016/04/08,Stuff,4,16.32,65.28
+Patrick Graham,California,West,Sandra Bowman,2016/04/08,Things,10,17.83,178.3
+Patrick Graham,California,West,Timothy Gonzales,2016/04/08,Junk,4,12.42,49.68
+Patrick Graham,Oregon,West,Kathy Lee,2016/04/08,Stuff,4,16.32,65.28
+Randy Watson,New York,East,Alan Allen,2016/04/08,Junk,3,12.42,37.26
+Randy Watson,New Jersey,East,Victor Watson,2016/04/08,Stuff,8,16.32,130.56
+Sara Snyder,Massachusetts,East,Rose Baker,2016/04/08,Junk,1,12.42,12.42
+Patrick Graham,Oregon,West,Michelle Phillips,2016/04/08,Things,9,17.83,160.47
+Frances Warren,New York,East,Tina Jones,2016/04/09,Widgets,1,53.35,53.35
+Frances Warren,New Jersey,East,Todd Miller,2016/04/09,Widgets,1,53.35,53.35
+Patrick Graham,Oregon,West,Ruby Taylor,2016/04/09,Stuff,6,16.32,97.92
+Patrick Graham,Washington,West,Earl Morales,2016/04/09,Junk,8,12.42,99.36
+Randy Watson,New Jersey,East,Joseph Foster,2016/04/09,Stuff,1,16.32,16.32
+Frances Warren,New York,East,Louis Mason,2016/04/09,Things,7,17.83,124.81
+Diane Gonzalez,Oregon,West,Joyce Myers,2016/04/09,Widgets,1,53.35,53.35
+Patrick Graham,Oregon,West,Gloria Fisher,2016/04/09,Things,8,17.83,142.64
+Randy Watson,Connecticut,East,Phyllis Grant,2016/04/09,Junk,9,12.42,111.78
+Frances Warren,Connecticut,East,Carlos Stephens,2016/04/09,Things,8,17.83,142.64
+Patrick Graham,California,West,Judy Lopez,2016/04/09,Widgets,9,53.35,480.15
+Frances Warren,New York,East,Louis Mason,2016/04/09,Stuff,10,16.32,163.2
+Diane Gonzalez,Washington,West,Craig Hicks,2016/04/09,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,Christine Jacobs,2016/04/09,Things,10,17.83,178.3
+Diane Gonzalez,Oregon,West,Rose Matthews,2016/04/09,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Alice Kelly,2016/04/10,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Joe Ryan,2016/04/10,Things,2,17.83,35.66
+Patrick Graham,California,West,Nicholas Schmidt,2016/04/10,Widgets,1,53.35,53.35
+Diane Gonzalez,Washington,West,Gloria Morris,2016/04/10,Junk,8,12.42,99.36
+Diane Gonzalez,Washington,West,Terry Nguyen,2016/04/10,Things,4,17.83,71.32
+Frances Warren,Massachusetts,East,Andrea King,2016/04/10,Junk,10,12.42,124.2
+Sara Snyder,Connecticut,East,Raymond Clark,2016/04/10,Widgets,4,53.35,213.4
+Sara Snyder,Massachusetts,East,Matthew Berry,2016/04/10,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Annie Wilson,2016/04/10,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Bonnie Wagner,2016/04/10,Things,3,17.83,53.49
+Sara Snyder,Massachusetts,East,Kathryn Fox,2016/04/10,Widgets,2,53.35,106.7
+Sara Snyder,New York,East,Mark Alexander,2016/04/10,Junk,4,12.42,49.68
+Patrick Graham,California,West,Joan Robinson,2016/04/10,Things,10,17.83,178.3
+Patrick Graham,California,West,Jacqueline Little,2016/04/10,Stuff,10,16.32,163.2
+Sara Snyder,Massachusetts,East,Jerry Smith,2016/04/10,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Eugene Hughes,2016/04/10,Junk,5,12.42,62.1
+Frances Warren,New York,East,Sharon Rose,2016/04/10,Things,3,17.83,53.49
+Patrick Graham,Nevada,West,Sandra Hughes,2016/04/10,Junk,7,12.42,86.94
+Patrick Graham,Washington,West,Henry Sanders,2016/04/11,Widgets,4,53.35,213.4
+Diane Gonzalez,Oregon,West,Sharon Wagner,2016/04/11,Widgets,10,53.35,533.5
+Randy Watson,New York,East,Phyllis Johnston,2016/04/11,Widgets,8,53.35,426.8
+Patrick Graham,California,West,Willie Oliver,2016/04/11,Things,9,17.83,160.47
+Sara Snyder,New York,East,Ronald Kim,2016/04/11,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Gary Cook,2016/04/11,Junk,2,12.42,24.84
+Randy Watson,New York,East,Janice Jackson,2016/04/11,Stuff,9,16.32,146.88
+Patrick Graham,Washington,West,Kimberly Lee,2016/04/11,Junk,6,12.42,74.52
+Sara Snyder,Connecticut,East,Clarence Mason,2016/04/11,Things,3,17.83,53.49
+Sara Snyder,New Jersey,East,Judith Wood,2016/04/11,Widgets,2,53.35,106.7
+Sara Snyder,New York,East,Debra Palmer,2016/04/11,Junk,4,12.42,49.68
+Frances Warren,Massachusetts,East,Jennifer White,2016/04/11,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Harold Daniels,2016/04/12,Junk,8,12.42,99.36
+Patrick Graham,Oregon,West,Janet Stewart,2016/04/12,Junk,5,12.42,62.1
+Frances Warren,Massachusetts,East,Eugene Schmidt,2016/04/12,Junk,7,12.42,86.94
+Patrick Graham,Oregon,West,Kevin Garza,2016/04/12,Things,4,17.83,71.32
+Randy Watson,New York,East,Bonnie Wagner,2016/04/12,Things,6,17.83,106.98
+Diane Gonzalez,Washington,West,Philip Rodriguez,2016/04/12,Widgets,9,53.35,480.15
+Randy Watson,Massachusetts,East,Andrew Howard,2016/04/12,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Cheryl Riley,2016/04/12,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Albert Miller,2016/04/12,Widgets,3,53.35,160.05
+Diane Gonzalez,Oregon,West,Donald Ryan,2016/04/12,Widgets,2,53.35,106.7
+Sara Snyder,Massachusetts,East,Virginia Foster,2016/04/12,Widgets,10,53.35,533.5
+Diane Gonzalez,California,West,Rebecca Ryan,2016/04/12,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Jerry Collins,2016/04/12,Widgets,7,53.35,373.45
+Frances Warren,New Jersey,East,Kathy Rice,2016/04/12,Widgets,7,53.35,373.45
+Sara Snyder,New York,East,Steven Simpson,2016/04/12,Widgets,1,53.35,53.35
+Randy Watson,Massachusetts,East,Jennifer White,2016/04/13,Things,6,17.83,106.98
+Sara Snyder,New Jersey,East,Albert Dunn,2016/04/13,Junk,10,12.42,124.2
+Randy Watson,New York,East,Jane Sims,2016/04/13,Widgets,6,53.35,320.1
+Frances Warren,New Jersey,East,Robert Collins,2016/04/13,Things,8,17.83,142.64
+Sara Snyder,New York,East,Emily Patterson,2016/04/13,Widgets,2,53.35,106.7
+Sara Snyder,Massachusetts,East,Douglas Duncan,2016/04/13,Widgets,8,53.35,426.8
+Patrick Graham,California,West,Anthony White,2016/04/13,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Heather Lawrence,2016/04/13,Widgets,7,53.35,373.45
+Frances Warren,Massachusetts,East,Andrea King,2016/04/13,Widgets,9,53.35,480.15
+Diane Gonzalez,Oregon,West,Rachel Harris,2016/04/13,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Douglas Duncan,2016/04/13,Things,6,17.83,106.98
+Diane Gonzalez,Washington,West,Arthur Green,2016/04/13,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Paul Perkins,2016/04/13,Things,1,17.83,17.83
+Randy Watson,Connecticut,East,Cheryl Henderson,2016/04/13,Widgets,3,53.35,160.05
+Sara Snyder,New Jersey,East,Ruby Evans,2016/04/14,Things,4,17.83,71.32
+Patrick Graham,Washington,West,Susan Gomez,2016/04/14,Widgets,5,53.35,266.75
+Patrick Graham,Washington,West,Earl Morales,2016/04/14,Junk,1,12.42,12.42
+Sara Snyder,New Jersey,East,Arthur Simmons,2016/04/14,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Jean Torres,2016/04/14,Junk,9,12.42,111.78
+Patrick Graham,Washington,West,Donald Lopez,2016/04/14,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Carlos Greene,2016/04/14,Widgets,5,53.35,266.75
+Sara Snyder,Massachusetts,East,Jennifer Reyes,2016/04/14,Things,7,17.83,124.81
+Sara Snyder,Massachusetts,East,Roy Rivera,2016/04/14,Junk,3,12.42,37.26
+Randy Watson,New Jersey,East,Lois Woods,2016/04/15,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Cheryl Williamson,2016/04/15,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Cheryl Riley,2016/04/15,Things,5,17.83,89.15
+Randy Watson,New Jersey,East,Ernest Bishop,2016/04/15,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Joseph Willis,2016/04/15,Things,8,17.83,142.64
+Diane Gonzalez,Nevada,West,Laura Lewis,2016/04/15,Junk,8,12.42,99.36
+Randy Watson,New York,East,Jane Sims,2016/04/15,Widgets,5,53.35,266.75
+Randy Watson,Connecticut,East,Annie Collins,2016/04/15,Widgets,8,53.35,426.8
+Sara Snyder,Massachusetts,East,Bruce Cruz,2016/04/15,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Louise Rivera,2016/04/15,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Kenneth Gomez,2016/04/15,Junk,8,12.42,99.36
+Frances Warren,New Jersey,East,Robert Collins,2016/04/15,Junk,4,12.42,49.68
+Sara Snyder,New Jersey,East,Laura Wells,2016/04/15,Junk,3,12.42,37.26
+Diane Gonzalez,California,West,Nicholas Nguyen,2016/04/15,Stuff,6,16.32,97.92
+Diane Gonzalez,Oregon,West,Rachel Harris,2016/04/15,Junk,6,12.42,74.52
+Randy Watson,New Jersey,East,Judith Gray,2016/04/15,Stuff,10,16.32,163.2
+Patrick Graham,Washington,West,Annie Hughes,2016/04/15,Stuff,7,16.32,114.24
+Patrick Graham,Washington,West,Harry Hanson,2016/04/15,Widgets,7,53.35,373.45
+Frances Warren,Massachusetts,East,Brandon King,2016/04/15,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Eugene Flores,2016/04/16,Widgets,10,53.35,533.5
+Patrick Graham,Washington,West,Jane Ramirez,2016/04/16,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Cynthia Day,2016/04/16,Junk,1,12.42,12.42
+Frances Warren,New York,East,Jennifer Black,2016/04/16,Things,6,17.83,106.98
+Sara Snyder,New Jersey,East,Victor Watson,2016/04/16,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Christopher Pierce,2016/04/16,Junk,5,12.42,62.1
+Patrick Graham,Oregon,West,Joyce Myers,2016/04/16,Junk,3,12.42,37.26
+Diane Gonzalez,California,West,Adam Martin,2016/04/16,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Heather Andrews,2016/04/16,Stuff,9,16.32,146.88
+Diane Gonzalez,California,West,Andrew Adams,2016/04/16,Junk,9,12.42,111.78
+Frances Warren,Massachusetts,East,Joe Russell,2016/04/16,Junk,1,12.42,12.42
+Patrick Graham,Nevada,West,Craig Lewis,2016/04/16,Widgets,9,53.35,480.15
+Frances Warren,New Jersey,East,Maria Hughes,2016/04/16,Junk,3,12.42,37.26
+Sara Snyder,Massachusetts,East,Jennifer Reyes,2016/04/16,Junk,6,12.42,74.52
+Sara Snyder,New Jersey,East,Randy Willis,2016/04/17,Stuff,3,16.32,48.96
+Sara Snyder,New York,East,Christina Oliver,2016/04/17,Things,4,17.83,71.32
+Sara Snyder,New Jersey,East,Raymond Freeman,2016/04/17,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Jessica Lewis,2016/04/17,Things,2,17.83,35.66
+Randy Watson,New Jersey,East,Peter Brown,2016/04/17,Things,10,17.83,178.3
+Frances Warren,New Jersey,East,Sean Weaver,2016/04/17,Widgets,4,53.35,213.4
+Randy Watson,New York,East,Richard Walker,2016/04/17,Things,8,17.83,142.64
+Sara Snyder,Massachusetts,East,Jason Patterson,2016/04/17,Things,4,17.83,71.32
+Sara Snyder,New York,East,Jessica Lewis,2016/04/17,Junk,2,12.42,24.84
+Sara Snyder,Connecticut,East,Carolyn Rivera,2016/04/17,Things,8,17.83,142.64
+Frances Warren,Massachusetts,East,Lori Shaw,2016/04/18,Junk,8,12.42,99.36
+Patrick Graham,Nevada,West,Rachel Dunn,2016/04/18,Widgets,7,53.35,373.45
+Patrick Graham,California,West,Nicholas Schmidt,2016/04/18,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Jeremy Baker,2016/04/18,Stuff,1,16.32,16.32
+Patrick Graham,Nevada,West,Craig Lewis,2016/04/18,Things,8,17.83,142.64
+Diane Gonzalez,California,West,Mary Rose,2016/04/18,Widgets,6,53.35,320.1
+Patrick Graham,Oregon,West,Teresa Fisher,2016/04/18,Widgets,4,53.35,213.4
+Diane Gonzalez,Washington,West,Annie Hughes,2016/04/18,Widgets,10,53.35,533.5
+Patrick Graham,California,West,Gerald Mcdonald,2016/04/18,Things,7,17.83,124.81
+Sara Snyder,New York,East,Craig Mcdonald,2016/04/18,Things,4,17.83,71.32
+Sara Snyder,New York,East,Gloria Harper,2016/04/18,Junk,3,12.42,37.26
+Patrick Graham,California,West,Michelle Sanchez,2016/04/18,Junk,1,12.42,12.42
+Sara Snyder,New York,East,Juan Reed,2016/04/18,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Harold Rodriguez,2016/04/18,Things,8,17.83,142.64
+Sara Snyder,New Jersey,East,Cynthia Lewis,2016/04/18,Widgets,1,53.35,53.35
+Frances Warren,Massachusetts,East,Kathryn Fox,2016/04/19,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Kenneth Nelson,2016/04/19,Stuff,10,16.32,163.2
+Sara Snyder,Massachusetts,East,Craig Collins,2016/04/19,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Sandra Weaver,2016/04/19,Junk,8,12.42,99.36
+Sara Snyder,Connecticut,East,Brandon Morales,2016/04/19,Things,5,17.83,89.15
+Sara Snyder,Connecticut,East,Sandra Meyer,2016/04/19,Things,7,17.83,124.81
+Randy Watson,New York,East,Louise Frazier,2016/04/19,Widgets,1,53.35,53.35
+Frances Warren,New Jersey,East,Robert Collins,2016/04/19,Junk,7,12.42,86.94
+Patrick Graham,California,West,Adam Garza,2016/04/19,Junk,7,12.42,86.94
+Randy Watson,Connecticut,East,William Collins,2016/04/19,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Martha Bryant,2016/04/19,Widgets,6,53.35,320.1
+Randy Watson,Connecticut,East,Janice Ford,2016/04/19,Widgets,9,53.35,480.15
+Randy Watson,New Jersey,East,Debra Barnes,2016/04/19,Junk,5,12.42,62.1
+Frances Warren,Massachusetts,East,Phillip Johnston,2016/04/19,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Sharon Perez,2016/04/19,Junk,9,12.42,111.78
+Sara Snyder,New Jersey,East,Harold Matthews,2016/04/19,Things,7,17.83,124.81
+Diane Gonzalez,Washington,West,Mildred Moore,2016/04/19,Widgets,3,53.35,160.05
+Patrick Graham,Washington,West,Antonio Coleman,2016/04/20,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Tammy Hart,2016/04/20,Stuff,10,16.32,163.2
+Diane Gonzalez,California,West,Frances Parker,2016/04/20,Widgets,8,53.35,426.8
+Patrick Graham,Nevada,West,Laura Lewis,2016/04/20,Junk,8,12.42,99.36
+Sara Snyder,Connecticut,East,Carolyn Rivera,2016/04/20,Junk,1,12.42,12.42
+Frances Warren,New York,East,Carl Rice,2016/04/20,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Christopher Pierce,2016/04/20,Stuff,10,16.32,163.2
+Frances Warren,Massachusetts,East,Andrea King,2016/04/20,Junk,8,12.42,99.36
+Diane Gonzalez,Oregon,West,Gary Moreno,2016/04/20,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Frank Owens,2016/04/20,Junk,5,12.42,62.1
+Patrick Graham,Oregon,West,Henry Day,2016/04/20,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,George Stone,2016/04/20,Stuff,10,16.32,163.2
+Diane Gonzalez,Oregon,West,Carl Lawson,2016/04/20,Things,5,17.83,89.15
+Patrick Graham,Oregon,West,Jean Griffin,2016/04/20,Widgets,7,53.35,373.45
+Patrick Graham,Oregon,West,Sharon Rice,2016/04/20,Stuff,8,16.32,130.56
+Sara Snyder,New York,East,Joan Thompson,2016/04/21,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Annie Hunter,2016/04/21,Stuff,6,16.32,97.92
+Randy Watson,New Jersey,East,Judith Gray,2016/04/21,Things,10,17.83,178.3
+Sara Snyder,New York,East,Roger Freeman,2016/04/21,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Kevin Torres,2016/04/21,Stuff,10,16.32,163.2
+Sara Snyder,New Jersey,East,Albert Dunn,2016/04/21,Stuff,6,16.32,97.92
+Patrick Graham,Oregon,West,Wanda Allen,2016/04/21,Widgets,8,53.35,426.8
+Patrick Graham,Washington,West,Evelyn Lane,2016/04/21,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Roy Rivera,2016/04/21,Stuff,6,16.32,97.92
+Randy Watson,Connecticut,East,William Collins,2016/04/21,Widgets,6,53.35,320.1
+Sara Snyder,New York,East,Janice Jackson,2016/04/21,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Raymond Young,2016/04/21,Junk,1,12.42,12.42
+Randy Watson,New York,East,Joshua Campbell,2016/04/21,Things,7,17.83,124.81
+Sara Snyder,New York,East,Alan Allen,2016/04/21,Junk,3,12.42,37.26
+Randy Watson,Massachusetts,East,Diana Pierce,2016/04/21,Stuff,2,16.32,32.64
+Sara Snyder,New York,East,Todd Holmes,2016/04/21,Things,8,17.83,142.64
+Patrick Graham,California,West,Michelle Sanchez,2016/04/21,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Judith Gray,2016/04/21,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Bobby Mitchell,2016/04/21,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Janet Freeman,2016/04/21,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Douglas Duncan,2016/04/22,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Jennifer Adams,2016/04/22,Widgets,7,53.35,373.45
+Sara Snyder,New York,East,Jerry Pierce,2016/04/22,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Jimmy Bailey,2016/04/22,Things,5,17.83,89.15
+Sara Snyder,New Jersey,East,David Allen,2016/04/22,Things,3,17.83,53.49
+Sara Snyder,Connecticut,East,Henry Cox,2016/04/22,Junk,4,12.42,49.68
+Frances Warren,Massachusetts,East,Virginia Foster,2016/04/22,Junk,10,12.42,124.2
+Randy Watson,New York,East,Jeffrey Miller,2016/04/22,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Jerry Smith,2016/04/22,Things,6,17.83,106.98
+Randy Watson,New York,East,Albert Miller,2016/04/23,Things,5,17.83,89.15
+Sara Snyder,Connecticut,East,Phyllis Grant,2016/04/23,Widgets,9,53.35,480.15
+Patrick Graham,Nevada,West,Sarah Harrison,2016/04/23,Things,7,17.83,124.81
+Patrick Graham,Washington,West,Stephen Murray,2016/04/23,Stuff,10,16.32,163.2
+Sara Snyder,Massachusetts,East,William Payne,2016/04/23,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Frank Spencer,2016/04/23,Stuff,7,16.32,114.24
+Patrick Graham,Oregon,West,Carl Lawson,2016/04/23,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Richard Walker,2016/04/23,Junk,10,12.42,124.2
+Patrick Graham,California,West,Helen Diaz,2016/04/23,Widgets,8,53.35,426.8
+Randy Watson,Massachusetts,East,Bruce Nelson,2016/04/23,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Jerry Palmer,2016/04/23,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Phillip Johnston,2016/04/23,Junk,6,12.42,74.52
+Sara Snyder,Connecticut,East,Anna Franklin,2016/04/23,Things,3,17.83,53.49
+Sara Snyder,Massachusetts,East,Walter Meyer,2016/04/23,Junk,6,12.42,74.52
+Patrick Graham,California,West,Adam Martin,2016/04/23,Widgets,5,53.35,266.75
+Sara Snyder,New York,East,Harold Hunter,2016/04/23,Things,8,17.83,142.64
+Diane Gonzalez,Nevada,West,Sandra Hughes,2016/04/23,Things,7,17.83,124.81
+Sara Snyder,Massachusetts,East,Sean Carr,2016/04/23,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Stephanie Wallace,2016/04/23,Things,2,17.83,35.66
+Sara Snyder,New York,East,Billy Reed,2016/04/23,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Eugene Hughes,2016/04/23,Things,4,17.83,71.32
+Frances Warren,Massachusetts,East,Sean Carr,2016/04/23,Widgets,1,53.35,53.35
+Frances Warren,Massachusetts,East,Martha Brown,2016/04/23,Widgets,7,53.35,373.45
+Sara Snyder,New York,East,Janice Jackson,2016/04/24,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Frances Lane,2016/04/24,Things,6,17.83,106.98
+Diane Gonzalez,Oregon,West,Jeremy Diaz,2016/04/24,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,James Wheeler,2016/04/24,Widgets,5,53.35,266.75
+Sara Snyder,Connecticut,East,Maria Long,2016/04/24,Things,7,17.83,124.81
+Diane Gonzalez,Washington,West,Carol Pierce,2016/04/24,Widgets,3,53.35,160.05
+Patrick Graham,Oregon,West,Edward Taylor,2016/04/24,Junk,1,12.42,12.42
+Diane Gonzalez,Washington,West,Michelle Allen,2016/04/24,Things,3,17.83,53.49
+Sara Snyder,Massachusetts,East,Susan Watkins,2016/04/24,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Harold Schmidt,2016/04/24,Widgets,5,53.35,266.75
+Patrick Graham,Washington,West,Ruby Gonzales,2016/04/24,Stuff,8,16.32,130.56
+Sara Snyder,New York,East,Jimmy Bailey,2016/04/24,Junk,6,12.42,74.52
+Sara Snyder,New Jersey,East,David Allen,2016/04/24,Junk,8,12.42,99.36
+Patrick Graham,California,West,Robin Murphy,2016/04/24,Widgets,5,53.35,266.75
+Randy Watson,Connecticut,East,Scott Weaver,2016/04/24,Stuff,9,16.32,146.88
+Sara Snyder,Massachusetts,East,Emily Anderson,2016/04/25,Junk,4,12.42,49.68
+Patrick Graham,Nevada,West,Craig Lewis,2016/04/25,Stuff,9,16.32,146.88
+Randy Watson,New York,East,Daniel Morris,2016/04/25,Stuff,5,16.32,81.6
+Sara Snyder,New York,East,Joseph Boyd,2016/04/25,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Alan Romero,2016/04/25,Things,2,17.83,35.66
+Sara Snyder,New York,East,Eugene Wilson,2016/04/25,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Eric Ellis,2016/04/25,Things,8,17.83,142.64
+Diane Gonzalez,Washington,West,Kenneth Gomez,2016/04/25,Widgets,8,53.35,426.8
+Randy Watson,Massachusetts,East,Eugene Schmidt,2016/04/25,Junk,5,12.42,62.1
+Sara Snyder,Massachusetts,East,Beverly Hamilton,2016/04/25,Stuff,9,16.32,146.88
+Sara Snyder,Connecticut,East,Ashley Olson,2016/04/25,Stuff,9,16.32,146.88
+Diane Gonzalez,California,West,Robin Murphy,2016/04/25,Things,9,17.83,160.47
+Randy Watson,New Jersey,East,Kelly Daniels,2016/04/25,Junk,3,12.42,37.26
+Sara Snyder,Massachusetts,East,Gregory Thompson,2016/04/25,Junk,4,12.42,49.68
+Diane Gonzalez,California,West,Adam Martin,2016/04/25,Stuff,10,16.32,163.2
+Diane Gonzalez,Washington,West,Jerry Davis,2016/04/25,Stuff,7,16.32,114.24
+Patrick Graham,California,West,Kenneth James,2016/04/25,Things,3,17.83,53.49
+Sara Snyder,New Jersey,East,Adam Russell,2016/04/25,Widgets,2,53.35,106.7
+Patrick Graham,California,West,Walter Reed,2016/04/25,Stuff,1,16.32,16.32
+Sara Snyder,New Jersey,East,Edward Wells,2016/04/25,Junk,3,12.42,37.26
+Sara Snyder,Connecticut,East,Theresa Kennedy,2016/04/26,Stuff,6,16.32,97.92
+Sara Snyder,Massachusetts,East,Roger Gomez,2016/04/26,Widgets,3,53.35,160.05
+Randy Watson,New York,East,Maria Johnston,2016/04/26,Widgets,1,53.35,53.35
+Frances Warren,Massachusetts,East,Bobby Mitchell,2016/04/26,Stuff,9,16.32,146.88
+Patrick Graham,Washington,West,Lisa Morrison,2016/04/26,Widgets,2,53.35,106.7
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/04/26,Things,6,17.83,106.98
+Sara Snyder,Massachusetts,East,Joe Russell,2016/04/26,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Jennifer White,2016/04/26,Junk,5,12.42,62.1
+Sara Snyder,Massachusetts,East,Jacqueline Hart,2016/04/26,Things,7,17.83,124.81
+Patrick Graham,California,West,Rachel Stanley,2016/04/26,Widgets,3,53.35,160.05
+Sara Snyder,Massachusetts,East,Albert Cook,2016/04/26,Junk,5,12.42,62.1
+Frances Warren,New Jersey,East,Billy Wood,2016/04/26,Widgets,8,53.35,426.8
+Diane Gonzalez,Washington,West,Angela Sullivan,2016/04/26,Junk,9,12.42,111.78
+Diane Gonzalez,Nevada,West,Sarah Harrison,2016/04/27,Things,7,17.83,124.81
+Randy Watson,New York,East,Wayne Rivera,2016/04/27,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Maria Hughes,2016/04/27,Widgets,10,53.35,533.5
+Sara Snyder,New Jersey,East,Randy Willis,2016/04/27,Widgets,2,53.35,106.7
+Sara Snyder,New York,East,Lori Collins,2016/04/27,Junk,9,12.42,111.78
+Randy Watson,Massachusetts,East,Susan Watkins,2016/04/27,Stuff,5,16.32,81.6
+Patrick Graham,California,West,Joan Robinson,2016/04/27,Junk,3,12.42,37.26
+Diane Gonzalez,Oregon,West,Linda Wagner,2016/04/27,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Deborah Wells,2016/04/27,Stuff,8,16.32,130.56
+Patrick Graham,Oregon,West,Anna Garcia,2016/04/27,Junk,3,12.42,37.26
+Diane Gonzalez,California,West,Judy Lopez,2016/04/27,Widgets,5,53.35,266.75
+Patrick Graham,Oregon,West,Phillip Harrison,2016/04/27,Stuff,9,16.32,146.88
+Patrick Graham,California,West,Joan Robinson,2016/04/27,Stuff,7,16.32,114.24
+Randy Watson,Massachusetts,East,Wanda Cole,2016/04/27,Things,4,17.83,71.32
+Randy Watson,New Jersey,East,Phyllis Gonzales,2016/04/27,Things,3,17.83,53.49
+Patrick Graham,Oregon,West,Gloria Fisher,2016/04/27,Widgets,6,53.35,320.1
+Randy Watson,New York,East,Katherine Mcdonald,2016/04/28,Junk,1,12.42,12.42
+Patrick Graham,Oregon,West,Clarence Bishop,2016/04/28,Things,9,17.83,160.47
+Diane Gonzalez,Nevada,West,Kimberly Bennett,2016/04/28,Widgets,2,53.35,106.7
+Randy Watson,Massachusetts,East,Jacqueline Hart,2016/04/28,Widgets,4,53.35,213.4
+Sara Snyder,New Jersey,East,Victor Watson,2016/04/28,Things,4,17.83,71.32
+Sara Snyder,New York,East,Jerry Pierce,2016/04/28,Widgets,6,53.35,320.1
+Frances Warren,New York,East,Arthur Austin,2016/04/28,Junk,5,12.42,62.1
+Sara Snyder,Massachusetts,East,Andrew Howard,2016/04/28,Junk,1,12.42,12.42
+Diane Gonzalez,California,West,Joshua Baker,2016/04/28,Things,10,17.83,178.3
+Frances Warren,New Jersey,East,Victor Bell,2016/04/28,Widgets,1,53.35,53.35
+Patrick Graham,Oregon,West,Janet Stewart,2016/04/28,Widgets,5,53.35,266.75
+Patrick Graham,Oregon,West,Sharon Rice,2016/04/28,Things,9,17.83,160.47
+Randy Watson,Massachusetts,East,Juan Olson,2016/04/28,Things,3,17.83,53.49
+Sara Snyder,New York,East,Jimmy Bailey,2016/04/29,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Gary Cook,2016/04/29,Things,2,17.83,35.66
+Patrick Graham,Oregon,West,Kelly Gomez,2016/04/29,Things,7,17.83,124.81
+Sara Snyder,Connecticut,East,Diana Foster,2016/04/29,Widgets,10,53.35,533.5
+Sara Snyder,Massachusetts,East,Bruce Cruz,2016/04/29,Widgets,5,53.35,266.75
+Sara Snyder,New York,East,Janet Freeman,2016/04/29,Things,7,17.83,124.81
+Diane Gonzalez,Washington,West,Charles Collins,2016/04/29,Junk,2,12.42,24.84
+Sara Snyder,New Jersey,East,Timothy Lawson,2016/04/29,Stuff,7,16.32,114.24
+Diane Gonzalez,Nevada,West,Paula Watson,2016/04/29,Widgets,8,53.35,426.8
+Sara Snyder,New York,East,Brenda Cruz,2016/04/29,Junk,10,12.42,124.2
+Sara Snyder,Connecticut,East,Annie Collins,2016/04/30,Junk,2,12.42,24.84
+Patrick Graham,Oregon,West,Edward Taylor,2016/04/30,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Margaret James,2016/04/30,Junk,9,12.42,111.78
+Frances Warren,New York,East,Bonnie Wagner,2016/04/30,Junk,8,12.42,99.36
+Patrick Graham,Oregon,West,Wanda Allen,2016/04/30,Widgets,4,53.35,213.4
+Sara Snyder,New York,East,Linda Rose,2016/04/30,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Carolyn Scott,2016/04/30,Stuff,9,16.32,146.88
+Patrick Graham,California,West,Ann Hall,2016/04/30,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Ruth Burton,2016/04/30,Things,8,17.83,142.64
+Sara Snyder,New York,East,Juan Wallace,2016/04/30,Widgets,5,53.35,266.75
+Randy Watson,Connecticut,East,Irene Franklin,2016/02/02,Widgets,3,53.35,160.05
+Patrick Graham,Washington,West,Craig Thomas,2016/02/02,Junk,9,12.42,111.78
+Sara Snyder,New Jersey,East,Laura Wells,2016/02/02,Stuff,10,16.32,163.2
+Randy Watson,Massachusetts,East,Dennis Reed,2016/02/02,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Richard Walker,2016/02/02,Widgets,10,53.35,533.5
+Randy Watson,New York,East,Jessica Lewis,2016/02/02,Widgets,7,53.35,373.45
+Frances Warren,New Jersey,East,Chris George,2016/02/02,Things,6,17.83,106.98
+Randy Watson,New York,East,Mark Rogers,2016/02/02,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Robin Matthews,2016/02/02,Junk,10,12.42,124.2
+Randy Watson,Massachusetts,East,Frank Murphy,2016/02/02,Things,6,17.83,106.98
+Diane Gonzalez,Oregon,West,Lillian Howard,2016/02/02,Stuff,6,16.32,97.92
+Frances Warren,Massachusetts,East,Ernest Kelley,2016/02/03,Junk,5,12.42,62.1
+Sara Snyder,Massachusetts,East,Roy Franklin,2016/02/03,Widgets,7,53.35,373.45
+Randy Watson,New Jersey,East,Anthony Ruiz,2016/02/03,Things,6,17.83,106.98
+Diane Gonzalez,Washington,West,Christine Wallace,2016/02/03,Stuff,6,16.32,97.92
+Sara Snyder,Massachusetts,East,Jennifer White,2016/02/03,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Albert Miller,2016/02/03,Junk,9,12.42,111.78
+Diane Gonzalez,California,West,Andrea Lawrence,2016/02/03,Things,9,17.83,160.47
+Randy Watson,New Jersey,East,Russell Day,2016/02/03,Stuff,9,16.32,146.88
+Patrick Graham,Oregon,West,Edward Taylor,2016/02/03,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Kathy Lee,2016/02/03,Stuff,6,16.32,97.92
+Patrick Graham,Washington,West,Joseph Willis,2016/02/03,Junk,10,12.42,124.2
+Patrick Graham,California,West,Robin Murphy,2016/02/03,Junk,2,12.42,24.84
+Sara Snyder,New Jersey,East,Maria Hughes,2016/02/03,Things,4,17.83,71.32
+Frances Warren,New York,East,Linda Rose,2016/02/03,Things,4,17.83,71.32
+Sara Snyder,Connecticut,East,Maria Long,2016/02/04,Junk,4,12.42,49.68
+Patrick Graham,Oregon,West,Phillip Harrison,2016/02/04,Stuff,5,16.32,81.6
+Frances Warren,New York,East,Roy Young,2016/02/04,Widgets,7,53.35,373.45
+Patrick Graham,Oregon,West,Wanda Allen,2016/02/04,Stuff,7,16.32,114.24
+Patrick Graham,Washington,West,Shirley Chavez,2016/02/04,Junk,1,12.42,12.42
+Patrick Graham,Washington,West,Margaret James,2016/02/04,Things,8,17.83,142.64
+Randy Watson,Connecticut,East,Debra Gutierrez,2016/02/04,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Wanda Cole,2016/02/04,Widgets,9,53.35,480.15
+Sara Snyder,Connecticut,East,Alan Dean,2016/02/04,Things,7,17.83,124.81
+Randy Watson,Massachusetts,East,Harold Schmidt,2016/02/04,Junk,10,12.42,124.2
+Diane Gonzalez,Oregon,West,Kathy Lee,2016/02/04,Stuff,1,16.32,16.32
+Patrick Graham,California,West,Ann Hall,2016/02/04,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Debra Barnes,2016/02/04,Things,9,17.83,160.47
+Sara Snyder,Massachusetts,East,Andrew Howard,2016/02/04,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Marie Rivera,2016/02/05,Junk,6,12.42,74.52
+Randy Watson,New Jersey,East,Randy Willis,2016/02/05,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Teresa Thomas,2016/02/05,Widgets,3,53.35,160.05
+Sara Snyder,Massachusetts,East,Justin Dixon,2016/02/05,Things,6,17.83,106.98
+Randy Watson,Massachusetts,East,Jean Torres,2016/02/05,Things,8,17.83,142.64
+Patrick Graham,Washington,West,Gloria Morris,2016/02/05,Junk,2,12.42,24.84
+Frances Warren,Connecticut,East,Henry Cox,2016/02/05,Stuff,6,16.32,97.92
+Sara Snyder,New York,East,Shirley Murray,2016/02/05,Things,9,17.83,160.47
+Patrick Graham,Washington,West,Earl White,2016/02/05,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Ernest Bishop,2016/02/05,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Rachel Larson,2016/02/05,Things,7,17.83,124.81
+Patrick Graham,Oregon,West,Brian Roberts,2016/02/05,Junk,7,12.42,86.94
+Randy Watson,New York,East,Lillian Wood,2016/02/05,Junk,4,12.42,49.68
+Randy Watson,Connecticut,East,Janice Ford,2016/02/05,Widgets,5,53.35,266.75
+Sara Snyder,New York,East,Jessica Lewis,2016/02/05,Widgets,2,53.35,106.7
+Randy Watson,Massachusetts,East,Walter Kennedy,2016/02/05,Things,7,17.83,124.81
+Diane Gonzalez,Oregon,West,Rose Matthews,2016/02/05,Widgets,5,53.35,266.75
+Diane Gonzalez,Washington,West,Beverly Garcia,2016/02/05,Stuff,3,16.32,48.96
+Patrick Graham,Oregon,West,Phillip Harrison,2016/02/05,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Phyllis Johnston,2016/02/06,Stuff,9,16.32,146.88
+Frances Warren,New Jersey,East,Debra Barnes,2016/02/06,Widgets,6,53.35,320.1
+Sara Snyder,New York,East,Jimmy Bailey,2016/02/06,Stuff,7,16.32,114.24
+Patrick Graham,Washington,West,Mildred Hernandez,2016/02/06,Stuff,1,16.32,16.32
+Diane Gonzalez,Nevada,West,Rachel Dunn,2016/02/06,Junk,1,12.42,12.42
+Patrick Graham,California,West,Willie Oliver,2016/02/06,Stuff,4,16.32,65.28
+Diane Gonzalez,Washington,West,Maria Romero,2016/02/06,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,William Payne,2016/02/06,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Jason Black,2016/02/06,Stuff,5,16.32,81.6
+Randy Watson,Massachusetts,East,Carl Howard,2016/02/06,Things,5,17.83,89.15
+Patrick Graham,Oregon,West,Henry Stanley,2016/02/06,Widgets,8,53.35,426.8
+Diane Gonzalez,Oregon,West,Gloria Oliver,2016/02/06,Things,2,17.83,35.66
+Diane Gonzalez,Oregon,West,Marilyn Graham,2016/02/07,Stuff,8,16.32,130.56
+Sara Snyder,New York,East,Judith Woods,2016/02/07,Things,5,17.83,89.15
+Sara Snyder,Connecticut,East,Alan Dean,2016/02/07,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Albert Dunn,2016/02/07,Junk,2,12.42,24.84
+Sara Snyder,New Jersey,East,Arthur Simmons,2016/02/07,Widgets,9,53.35,480.15
+Randy Watson,Massachusetts,East,Jean Fowler,2016/02/07,Junk,8,12.42,99.36
+Sara Snyder,Connecticut,East,Carolyn Rivera,2016/02/07,Things,6,17.83,106.98
+Sara Snyder,Massachusetts,East,Wanda Cole,2016/02/07,Stuff,2,16.32,32.64
+Randy Watson,Massachusetts,East,Dennis Reed,2016/02/07,Junk,10,12.42,124.2
+Patrick Graham,California,West,Diane Lewis,2016/02/07,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Karen Willis,2016/02/07,Junk,9,12.42,111.78
+Frances Warren,New Jersey,East,Russell Day,2016/02/07,Stuff,6,16.32,97.92
+Sara Snyder,Massachusetts,East,Susan Watkins,2016/02/07,Widgets,7,53.35,373.45
+Patrick Graham,Washington,West,Craig Reyes,2016/02/07,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Teresa Fisher,2016/02/08,Widgets,5,53.35,266.75
+Diane Gonzalez,Washington,West,Pamela Alexander,2016/02/08,Widgets,9,53.35,480.15
+Sara Snyder,Massachusetts,East,Dennis Reed,2016/02/08,Widgets,3,53.35,160.05
+Frances Warren,New York,East,Raymond Collins,2016/02/08,Junk,5,12.42,62.1
+Diane Gonzalez,Washington,West,Harry Hanson,2016/02/08,Junk,3,12.42,37.26
+Frances Warren,Massachusetts,East,Roger Andrews,2016/02/08,Things,4,17.83,71.32
+Patrick Graham,Oregon,West,Sharon Wagner,2016/02/08,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Marie Rivera,2016/02/08,Things,6,17.83,106.98
+Sara Snyder,New York,East,Louis Marshall,2016/02/08,Things,6,17.83,106.98
+Patrick Graham,Oregon,West,Sharon Rice,2016/02/08,Junk,7,12.42,86.94
+Patrick Graham,California,West,Brenda Nelson,2016/02/08,Stuff,6,16.32,97.92
+Patrick Graham,California,West,Diane Lewis,2016/02/08,Junk,5,12.42,62.1
+Randy Watson,New York,East,Jessica Lewis,2016/02/08,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Wayne Lawson,2016/02/08,Stuff,9,16.32,146.88
+Sara Snyder,New York,East,Jane Sims,2016/02/08,Widgets,1,53.35,53.35
+Randy Watson,New York,East,Theresa Mendoza,2016/02/09,Junk,6,12.42,74.52
+Patrick Graham,Washington,West,Mary Green,2016/02/09,Stuff,6,16.32,97.92
+Patrick Graham,Washington,West,Emily Matthews,2016/02/09,Things,2,17.83,35.66
+Frances Warren,New Jersey,East,Billy Wood,2016/02/09,Junk,3,12.42,37.26
+Diane Gonzalez,Washington,West,Gary Weaver,2016/02/09,Widgets,8,53.35,426.8
+Sara Snyder,New Jersey,East,Edward Wells,2016/02/09,Junk,10,12.42,124.2
+Frances Warren,Massachusetts,East,Joseph Bishop,2016/02/09,Things,10,17.83,178.3
+Patrick Graham,California,West,Beverly Jacobs,2016/02/09,Stuff,6,16.32,97.92
+Frances Warren,Massachusetts,East,Steven Miller,2016/02/09,Widgets,6,53.35,320.1
+Frances Warren,Massachusetts,East,Thomas Robinson,2016/02/09,Stuff,1,16.32,16.32
+Patrick Graham,Washington,West,Terry Nguyen,2016/02/10,Widgets,10,53.35,533.5
+Diane Gonzalez,Oregon,West,Alice Taylor,2016/02/10,Stuff,3,16.32,48.96
+Sara Snyder,Massachusetts,East,Kenneth Nelson,2016/02/10,Stuff,7,16.32,114.24
+Randy Watson,New York,East,Lawrence Ruiz,2016/02/10,Things,9,17.83,160.47
+Frances Warren,New Jersey,East,Johnny Fowler,2016/02/10,Stuff,5,16.32,81.6
+Diane Gonzalez,Oregon,West,Kathy Lee,2016/02/10,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Harold Schmidt,2016/02/10,Stuff,6,16.32,97.92
+Sara Snyder,Massachusetts,East,Cheryl Williamson,2016/02/10,Things,4,17.83,71.32
+Patrick Graham,California,West,Jimmy Warren,2016/02/10,Junk,2,12.42,24.84
+Diane Gonzalez,Washington,West,Charles Collins,2016/02/10,Stuff,7,16.32,114.24
+Sara Snyder,Massachusetts,East,Joan Cooper,2016/02/10,Junk,6,12.42,74.52
+Randy Watson,Massachusetts,East,Matthew Berry,2016/02/10,Widgets,9,53.35,480.15
+Randy Watson,New York,East,Sharon Perez,2016/02/10,Stuff,3,16.32,48.96
+Diane Gonzalez,Washington,West,Gloria Morris,2016/02/10,Things,4,17.83,71.32
+Randy Watson,Connecticut,East,Debra Gutierrez,2016/02/10,Stuff,1,16.32,16.32
+Diane Gonzalez,Washington,West,Gary Weaver,2016/02/10,Things,10,17.83,178.3
+Frances Warren,New York,East,Debra Palmer,2016/02/10,Things,1,17.83,17.83
+Randy Watson,New Jersey,East,Todd Miller,2016/02/11,Things,7,17.83,124.81
+Frances Warren,New Jersey,East,Amy Olson,2016/02/11,Junk,4,12.42,49.68
+Randy Watson,New York,East,Helen Dean,2016/02/11,Junk,5,12.42,62.1
+Diane Gonzalez,California,West,Helen Diaz,2016/02/11,Junk,3,12.42,37.26
+Diane Gonzalez,Oregon,West,Marilyn Graham,2016/02/11,Junk,7,12.42,86.94
+Frances Warren,Massachusetts,East,Lori Shaw,2016/02/11,Widgets,8,53.35,426.8
+Sara Snyder,Connecticut,East,Clarence Mason,2016/02/11,Widgets,10,53.35,533.5
+Randy Watson,New York,East,Raymond Collins,2016/02/11,Junk,9,12.42,111.78
+Randy Watson,New Jersey,East,Phyllis Gonzales,2016/02/11,Things,8,17.83,142.64
+Frances Warren,New York,East,Maria Johnston,2016/02/11,Junk,2,12.42,24.84
+Randy Watson,New Jersey,East,Rachel Larson,2016/02/11,Junk,9,12.42,111.78
+Randy Watson,Massachusetts,East,Charles Ray,2016/02/11,Stuff,8,16.32,130.56
+Randy Watson,New Jersey,East,Kimberly Coleman,2016/02/11,Widgets,1,53.35,53.35
+Sara Snyder,New York,East,Theresa Mendoza,2016/02/11,Things,10,17.83,178.3
+Randy Watson,Massachusetts,East,Ernest Kelley,2016/02/11,Things,8,17.83,142.64
+Diane Gonzalez,Oregon,West,Martha Harper,2016/02/11,Things,5,17.83,89.15
+Sara Snyder,Massachusetts,East,Shirley Rivera,2016/02/12,Junk,5,12.42,62.1
+Patrick Graham,Oregon,West,Teresa Fisher,2016/02/12,Stuff,3,16.32,48.96
+Frances Warren,New York,East,Billy Reed,2016/02/12,Junk,8,12.42,99.36
+Diane Gonzalez,California,West,Rachel Stanley,2016/02/12,Things,6,17.83,106.98
+Frances Warren,New York,East,Jerry Pierce,2016/02/12,Junk,1,12.42,12.42
+Frances Warren,New York,East,Cheryl Riley,2016/02/12,Things,9,17.83,160.47
+Patrick Graham,California,West,Andrea Washington,2016/02/12,Stuff,10,16.32,163.2
+Patrick Graham,Washington,West,Stephen Murray,2016/02/12,Things,9,17.83,160.47
+Sara Snyder,Massachusetts,East,Joseph Bishop,2016/02/12,Things,1,17.83,17.83
+Sara Snyder,Massachusetts,East,Justin Dixon,2016/02/12,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Kimberly Adams,2016/02/12,Stuff,8,16.32,130.56
+Patrick Graham,California,West,Angela Fowler,2016/02/12,Things,1,17.83,17.83
+Patrick Graham,Washington,West,Jason Berry,2016/02/12,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Ann Duncan,2016/02/13,Widgets,6,53.35,320.1
+Frances Warren,Massachusetts,East,Joan Cooper,2016/02/13,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Virginia Foster,2016/02/13,Things,2,17.83,35.66
+Randy Watson,New Jersey,East,Jacqueline Wheeler,2016/02/13,Junk,9,12.42,111.78
+Patrick Graham,California,West,Nicholas Schmidt,2016/02/13,Things,5,17.83,89.15
+Sara Snyder,New Jersey,East,Tammy Hart,2016/02/13,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Christina Oliver,2016/02/13,Stuff,10,16.32,163.2
+Sara Snyder,New Jersey,East,Maria Hughes,2016/02/13,Junk,3,12.42,37.26
+Frances Warren,New York,East,Maria Johnston,2016/02/13,Things,3,17.83,53.49
+Diane Gonzalez,Oregon,West,Wanda Allen,2016/02/13,Junk,1,12.42,12.42
+Patrick Graham,Washington,West,Paula Ross,2016/02/13,Junk,9,12.42,111.78
+Randy Watson,Massachusetts,East,Carl Ford,2016/02/13,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Carlos Greene,2016/02/13,Junk,1,12.42,12.42
+Patrick Graham,Oregon,West,Samuel Garza,2016/02/13,Widgets,10,53.35,533.5
+Diane Gonzalez,Oregon,West,Marilyn Franklin,2016/02/14,Things,8,17.83,142.64
+Randy Watson,Massachusetts,East,Roger Gomez,2016/02/14,Junk,6,12.42,74.52
+Patrick Graham,Oregon,West,Samuel Garza,2016/02/14,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Stephen Hicks,2016/02/14,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Gregory Thompson,2016/02/14,Stuff,3,16.32,48.96
+Randy Watson,Massachusetts,East,Heather Lawrence,2016/02/14,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Mark Alexander,2016/02/14,Things,4,17.83,71.32
+Frances Warren,New York,East,Joseph Boyd,2016/02/14,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Victor Watson,2016/02/14,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Henry Sanders,2016/02/14,Stuff,8,16.32,130.56
+Sara Snyder,New Jersey,East,Joseph Foster,2016/02/14,Widgets,5,53.35,266.75
+Frances Warren,New York,East,Heather Andrews,2016/02/14,Things,3,17.83,53.49
+Sara Snyder,New York,East,Alan Allen,2016/02/14,Things,10,17.83,178.3
+Diane Gonzalez,California,West,Helen Diaz,2016/02/14,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Jerry Pierce,2016/02/14,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Kathryn Fox,2016/02/14,Stuff,1,16.32,16.32
+Randy Watson,New Jersey,East,Cynthia Mccoy,2016/02/14,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Michael Foster,2016/02/14,Widgets,3,53.35,160.05
+Sara Snyder,New Jersey,East,Theresa Torres,2016/02/14,Stuff,6,16.32,97.92
+Randy Watson,Massachusetts,East,Beverly Hamilton,2016/02/15,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Bruce Cruz,2016/02/15,Things,8,17.83,142.64
+Randy Watson,New Jersey,East,Ronald Lopez,2016/02/15,Widgets,5,53.35,266.75
+Patrick Graham,Washington,West,Pamela Alexander,2016/02/15,Junk,7,12.42,86.94
+Randy Watson,Massachusetts,East,Janice Mason,2016/02/15,Junk,3,12.42,37.26
+Sara Snyder,Connecticut,East,Raymond Clark,2016/02/15,Stuff,7,16.32,114.24
+Sara Snyder,Massachusetts,East,Phillip Young,2016/02/15,Widgets,4,53.35,213.4
+Diane Gonzalez,Washington,West,Mildred Hernandez,2016/02/15,Things,4,17.83,71.32
+Sara Snyder,Connecticut,East,Scott Weaver,2016/02/16,Junk,5,12.42,62.1
+Frances Warren,New York,East,Debra Palmer,2016/02/16,Things,10,17.83,178.3
+Sara Snyder,Massachusetts,East,Harold Schmidt,2016/02/16,Things,9,17.83,160.47
+Sara Snyder,Massachusetts,East,Ernest Kelley,2016/02/16,Stuff,3,16.32,48.96
+Frances Warren,Connecticut,East,Brandon Morales,2016/02/16,Things,4,17.83,71.32
+Sara Snyder,New York,East,Emily Patterson,2016/02/16,Junk,10,12.42,124.2
+Randy Watson,Massachusetts,East,Cheryl Myers,2016/02/16,Stuff,8,16.32,130.56
+Randy Watson,Connecticut,East,Cheryl Henderson,2016/02/16,Junk,2,12.42,24.84
+Frances Warren,Massachusetts,East,Bruce Reynolds,2016/02/16,Stuff,2,16.32,32.64
+Patrick Graham,California,West,Frank Garrett,2016/02/16,Widgets,10,53.35,533.5
+Patrick Graham,Washington,West,Judy Sanchez,2016/02/16,Stuff,8,16.32,130.56
+Patrick Graham,California,West,Mary Rose,2016/02/16,Junk,8,12.42,99.36
+Frances Warren,Connecticut,East,Ryan Arnold,2016/02/17,Junk,5,12.42,62.1
+Patrick Graham,Washington,West,Gregory Richardson,2016/02/17,Widgets,4,53.35,213.4
+Randy Watson,New York,East,Marilyn Perez,2016/02/17,Things,8,17.83,142.64
+Frances Warren,New Jersey,East,Eric Ellis,2016/02/17,Stuff,7,16.32,114.24
+Diane Gonzalez,California,West,Joshua Baker,2016/02/17,Junk,4,12.42,49.68
+Randy Watson,New York,East,Carl Rice,2016/02/17,Junk,1,12.42,12.42
+Patrick Graham,Oregon,West,Michelle Phillips,2016/02/17,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Juan Wallace,2016/02/17,Junk,2,12.42,24.84
+Sara Snyder,New Jersey,East,Benjamin Spencer,2016/02/17,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Michelle Henderson,2016/02/17,Junk,6,12.42,74.52
+Diane Gonzalez,Oregon,West,Sharon Wagner,2016/02/17,Junk,7,12.42,86.94
+Frances Warren,Massachusetts,East,Diana Pierce,2016/02/17,Things,1,17.83,17.83
+Sara Snyder,Connecticut,East,Ryan Arnold,2016/02/17,Junk,9,12.42,111.78
+Diane Gonzalez,Washington,West,Jason Berry,2016/02/17,Widgets,9,53.35,480.15
+Randy Watson,New York,East,Shirley Murray,2016/02/17,Widgets,7,53.35,373.45
+Diane Gonzalez,Oregon,West,Sharon Rice,2016/02/17,Stuff,5,16.32,81.6
+Sara Snyder,Connecticut,East,William Collins,2016/02/17,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Lillian Burke,2016/02/17,Junk,5,12.42,62.1
+Randy Watson,Connecticut,East,Sandra Meyer,2016/02/17,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Angela Sullivan,2016/02/17,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Alice Kelly,2016/02/17,Junk,5,12.42,62.1
+Diane Gonzalez,California,West,Kathy Porter,2016/02/17,Stuff,3,16.32,48.96
+Diane Gonzalez,California,West,Ann Hall,2016/02/18,Stuff,8,16.32,130.56
+Sara Snyder,Massachusetts,East,Ryan Alvarez,2016/02/18,Stuff,7,16.32,114.24
+Diane Gonzalez,Washington,West,Stephen Murray,2016/02/18,Stuff,5,16.32,81.6
+Sara Snyder,New Jersey,East,Debra Barnes,2016/02/18,Things,3,17.83,53.49
+Sara Snyder,New Jersey,East,Benjamin Spencer,2016/02/18,Widgets,1,53.35,53.35
+Diane Gonzalez,Oregon,West,Gary Moreno,2016/02/18,Things,8,17.83,142.64
+Diane Gonzalez,Oregon,West,Alice Brown,2016/02/18,Junk,2,12.42,24.84
+Diane Gonzalez,California,West,Harry Torres,2016/02/18,Widgets,10,53.35,533.5
+Patrick Graham,California,West,Sandra Bowman,2016/02/18,Things,5,17.83,89.15
+Sara Snyder,New York,East,Mark Alexander,2016/02/18,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Roy Franklin,2016/02/18,Junk,5,12.42,62.1
+Randy Watson,Connecticut,East,Albert Bradley,2016/02/18,Junk,3,12.42,37.26
+Frances Warren,New Jersey,East,Russell Day,2016/02/18,Things,6,17.83,106.98
+Diane Gonzalez,California,West,Michelle Sanchez,2016/02/19,Junk,3,12.42,37.26
+Randy Watson,Connecticut,East,Marilyn Perry,2016/02/19,Junk,5,12.42,62.1
+Patrick Graham,Washington,West,Ryan Ramos,2016/02/19,Things,4,17.83,71.32
+Sara Snyder,New Jersey,East,Victor Watson,2016/02/19,Stuff,5,16.32,81.6
+Sara Snyder,Massachusetts,East,Eugene Flores,2016/02/19,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Todd Holmes,2016/02/19,Stuff,6,16.32,97.92
+Frances Warren,Massachusetts,East,Matthew Berry,2016/02/19,Things,8,17.83,142.64
+Frances Warren,New Jersey,East,Brian Ryan,2016/02/19,Junk,8,12.42,99.36
+Patrick Graham,California,West,Frank Garrett,2016/02/19,Junk,10,12.42,124.2
+Diane Gonzalez,Washington,West,Charles Montgomery,2016/02/19,Widgets,8,53.35,426.8
+Patrick Graham,California,West,Norma West,2016/02/19,Widgets,8,53.35,426.8
+Sara Snyder,New Jersey,East,Joseph Foster,2016/02/19,Junk,5,12.42,62.1
+Randy Watson,New Jersey,East,Kathy Rice,2016/02/19,Junk,7,12.42,86.94
+Randy Watson,New York,East,Juan Reed,2016/02/19,Widgets,1,53.35,53.35
+Sara Snyder,New York,East,Katherine Mcdonald,2016/02/19,Widgets,2,53.35,106.7
+Randy Watson,New York,East,Mark Rogers,2016/02/19,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Shirley Murray,2016/02/19,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Debra Allen,2016/02/20,Things,1,17.83,17.83
+Sara Snyder,Massachusetts,East,Joan Cooper,2016/02/20,Stuff,2,16.32,32.64
+Randy Watson,New Jersey,East,Raymond Freeman,2016/02/20,Widgets,1,53.35,53.35
+Randy Watson,New Jersey,East,Harold Matthews,2016/02/20,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Benjamin Spencer,2016/02/20,Things,3,17.83,53.49
+Sara Snyder,Massachusetts,East,Jennifer Reyes,2016/02/20,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Teresa Walker,2016/02/20,Junk,6,12.42,74.52
+Randy Watson,New York,East,Cynthia Brooks,2016/02/20,Things,8,17.83,142.64
+Frances Warren,New York,East,Gerald Phillips,2016/02/20,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Arthur Austin,2016/02/20,Things,5,17.83,89.15
+Sara Snyder,New York,East,Judith Woods,2016/02/20,Things,6,17.83,106.98
+Patrick Graham,California,West,Michelle Sanchez,2016/02/20,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Alice Davis,2016/02/20,Things,1,17.83,17.83
+Randy Watson,Massachusetts,East,Randy West,2016/02/21,Stuff,6,16.32,97.92
+Sara Snyder,New York,East,Marilyn Martin,2016/02/21,Things,9,17.83,160.47
+Patrick Graham,Washington,West,Paula Ross,2016/02/21,Things,2,17.83,35.66
+Sara Snyder,Massachusetts,East,Carl Ford,2016/02/21,Junk,8,12.42,99.36
+Randy Watson,Connecticut,East,Jane Watkins,2016/02/21,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Sandra Weaver,2016/02/21,Widgets,9,53.35,480.15
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/02/21,Widgets,8,53.35,426.8
+Randy Watson,Connecticut,East,Katherine Carroll,2016/02/21,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Eugene Flores,2016/02/21,Stuff,10,16.32,163.2
+Patrick Graham,Oregon,West,Sharon Wagner,2016/02/21,Stuff,3,16.32,48.96
+Diane Gonzalez,California,West,Harry Torres,2016/02/22,Junk,1,12.42,12.42
+Randy Watson,New Jersey,East,Joshua Washington,2016/02/22,Widgets,4,53.35,213.4
+Patrick Graham,Washington,West,Jason Berry,2016/02/22,Things,10,17.83,178.3
+Diane Gonzalez,California,West,Nicholas Schmidt,2016/02/22,Junk,9,12.42,111.78
+Randy Watson,New York,East,Wayne Lawson,2016/02/22,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Bruce Nelson,2016/02/22,Widgets,7,53.35,373.45
+Patrick Graham,California,West,Nicholas Schmidt,2016/02/22,Stuff,9,16.32,146.88
+Randy Watson,New Jersey,East,Joshua Washington,2016/02/22,Widgets,1,53.35,53.35
+Diane Gonzalez,Washington,West,Donald Lopez,2016/02/22,Junk,9,12.42,111.78
+Frances Warren,New York,East,Frank Owens,2016/02/22,Widgets,10,53.35,533.5
+Sara Snyder,New York,East,Tina Jones,2016/02/22,Things,5,17.83,89.15
+Patrick Graham,Oregon,West,Marilyn Franklin,2016/02/23,Junk,5,12.42,62.1
+Patrick Graham,Oregon,West,Anna Garcia,2016/02/23,Things,7,17.83,124.81
+Patrick Graham,Washington,West,Sharon Montgomery,2016/02/23,Junk,10,12.42,124.2
+Randy Watson,Connecticut,East,Anna Franklin,2016/02/23,Widgets,10,53.35,533.5
+Sara Snyder,New Jersey,East,Maria Hughes,2016/02/23,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Susan Watkins,2016/02/23,Widgets,4,53.35,213.4
+Sara Snyder,New Jersey,East,Johnny Fowler,2016/02/23,Things,1,17.83,17.83
+Diane Gonzalez,Oregon,West,Samuel Garza,2016/02/23,Things,7,17.83,124.81
+Patrick Graham,Nevada,West,Donna Williams,2016/02/23,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Johnny Fowler,2016/02/24,Widgets,7,53.35,373.45
+Sara Snyder,Massachusetts,East,Douglas Duncan,2016/02/24,Things,9,17.83,160.47
+Patrick Graham,California,West,Steven Stewart,2016/02/24,Things,10,17.83,178.3
+Patrick Graham,Washington,West,Cheryl Morris,2016/02/24,Widgets,5,53.35,266.75
+Sara Snyder,New York,East,Phyllis Johnston,2016/02/24,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Jerry Collins,2016/02/24,Stuff,2,16.32,32.64
+Diane Gonzalez,Washington,West,Beverly Garcia,2016/02/24,Widgets,2,53.35,106.7
+Randy Watson,New York,East,Brenda Cruz,2016/02/24,Junk,2,12.42,24.84
+Frances Warren,New York,East,Sharon Perez,2016/02/24,Stuff,5,16.32,81.6
+Patrick Graham,Nevada,West,Craig Lewis,2016/02/24,Junk,4,12.42,49.68
+Sara Snyder,New Jersey,East,Heather Larson,2016/02/24,Things,1,17.83,17.83
+Patrick Graham,Washington,West,Henry Sanders,2016/02/24,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Richard Walker,2016/02/24,Things,9,17.83,160.47
+Diane Gonzalez,California,West,Helen Diaz,2016/02/24,Junk,2,12.42,24.84
+Frances Warren,Massachusetts,East,Theresa Ellis,2016/02/25,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Jane Ramirez,2016/02/25,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Roger Gomez,2016/02/25,Things,10,17.83,178.3
+Patrick Graham,California,West,Rachel Stanley,2016/02/25,Stuff,2,16.32,32.64
+Frances Warren,Massachusetts,East,Paul Perkins,2016/02/25,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Earl Morales,2016/02/25,Junk,1,12.42,12.42
+Sara Snyder,Connecticut,East,Henry Cox,2016/02/25,Things,9,17.83,160.47
+Randy Watson,New Jersey,East,Brian Ryan,2016/02/25,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Ryan Alvarez,2016/02/25,Junk,2,12.42,24.84
+Sara Snyder,Connecticut,East,Henry Cox,2016/02/25,Junk,2,12.42,24.84
+Randy Watson,New Jersey,East,Maria Hughes,2016/02/25,Stuff,10,16.32,163.2
+Patrick Graham,Washington,West,Kathy Schmidt,2016/02/25,Widgets,4,53.35,213.4
+Patrick Graham,California,West,Martha Bell,2016/02/25,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Judy Sanchez,2016/02/25,Things,6,17.83,106.98
+Patrick Graham,Washington,West,Ernest Hernandez,2016/02/26,Things,5,17.83,89.15
+Patrick Graham,Washington,West,Susan Gomez,2016/02/26,Junk,9,12.42,111.78
+Frances Warren,New Jersey,East,Joshua Washington,2016/02/26,Junk,9,12.42,111.78
+Diane Gonzalez,Nevada,West,Donna Williams,2016/02/26,Stuff,10,16.32,163.2
+Sara Snyder,New Jersey,East,Stephen Welch,2016/02/26,Stuff,5,16.32,81.6
+Sara Snyder,New York,East,Wayne Lawson,2016/02/26,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Andrew Howard,2016/02/26,Stuff,10,16.32,163.2
+Patrick Graham,Washington,West,Maria Romero,2016/02/26,Stuff,5,16.32,81.6
+Patrick Graham,Nevada,West,Sarah Harrison,2016/02/26,Junk,6,12.42,74.52
+Randy Watson,New York,East,Anna Wheeler,2016/02/26,Stuff,5,16.32,81.6
+Sara Snyder,New Jersey,East,Judy Carpenter,2016/02/26,Stuff,4,16.32,65.28
+Diane Gonzalez,Washington,West,Jason Berry,2016/02/26,Widgets,6,53.35,320.1
+Diane Gonzalez,Washington,West,Louis Frazier,2016/02/26,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Jason Patterson,2016/02/27,Widgets,5,53.35,266.75
+Randy Watson,New Jersey,East,Ronald Lopez,2016/02/27,Junk,9,12.42,111.78
+Diane Gonzalez,Washington,West,Charles Collins,2016/02/27,Junk,4,12.42,49.68
+Diane Gonzalez,Oregon,West,Rose Moreno,2016/02/27,Junk,7,12.42,86.94
+Sara Snyder,Connecticut,East,Lois Baker,2016/02/27,Junk,3,12.42,37.26
+Sara Snyder,Massachusetts,East,Steven Miller,2016/02/27,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Phillip Young,2016/02/27,Stuff,4,16.32,65.28
+Sara Snyder,Connecticut,East,Ryan Arnold,2016/02/27,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Katherine Hayes,2016/02/28,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Arthur Simmons,2016/02/28,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Charles Collins,2016/02/28,Junk,3,12.42,37.26
+Sara Snyder,Massachusetts,East,Kevin Barnes,2016/02/28,Widgets,10,53.35,533.5
+Sara Snyder,New York,East,Arthur Austin,2016/02/28,Widgets,3,53.35,160.05
+Sara Snyder,Massachusetts,East,Frances Lane,2016/02/28,Junk,1,12.42,12.42
+Patrick Graham,California,West,Anthony White,2016/02/28,Things,2,17.83,35.66
+Diane Gonzalez,California,West,Deborah Gilbert,2016/02/28,Widgets,5,53.35,266.75
+Patrick Graham,Oregon,West,Kevin Garza,2016/02/28,Stuff,1,16.32,16.32
+Diane Gonzalez,Washington,West,Lisa Morrison,2016/02/28,Junk,8,12.42,99.36
+Randy Watson,New Jersey,East,Cynthia Mccoy,2016/02/28,Things,1,17.83,17.83
+Sara Snyder,New York,East,Cynthia Ray,2016/02/28,Things,9,17.83,160.47
+Sara Snyder,Massachusetts,East,Eric Robertson,2016/02/28,Stuff,4,16.32,65.28
+Sara Snyder,Massachusetts,East,Louise Green,2016/02/28,Widgets,2,53.35,106.7
+Sara Snyder,New Jersey,East,Ernest Bishop,2016/02/28,Junk,1,12.42,12.42
+Diane Gonzalez,Nevada,West,Sarah Harrison,2016/02/28,Junk,3,12.42,37.26
+Patrick Graham,Oregon,West,Marilyn Graham,2016/02/28,Stuff,5,16.32,81.6
+Frances Warren,Massachusetts,East,Antonio Hunter,2016/02/28,Widgets,8,53.35,426.8
+Sara Snyder,Massachusetts,East,Raymond Young,2016/01/01,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Helen Dean,2016/01/01,Junk,7,12.42,86.94
+Diane Gonzalez,Washington,West,Shirley Chavez,2016/01/01,Stuff,2,16.32,32.64
+Sara Snyder,New Jersey,East,Brian Ryan,2016/01/01,Junk,1,12.42,12.42
+Sara Snyder,New Jersey,East,Benjamin Willis,2016/01/01,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Annie Jenkins,2016/01/01,Widgets,6,53.35,320.1
+Sara Snyder,New York,East,Christina Little,2016/01/01,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,Mary Green,2016/01/01,Stuff,9,16.32,146.88
+Randy Watson,New York,East,Ruby Matthews,2016/01/02,Things,6,17.83,106.98
+Sara Snyder,New York,East,Christopher Oliver,2016/01/02,Junk,8,12.42,99.36
+Randy Watson,Massachusetts,East,Kathryn Fox,2016/01/02,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Carl Lawson,2016/01/02,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/01/02,Junk,1,12.42,12.42
+Patrick Graham,Washington,West,Pamela Alexander,2016/01/02,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Gloria Harper,2016/01/02,Stuff,8,16.32,130.56
+Randy Watson,New York,East,Harold Hunter,2016/01/02,Widgets,10,53.35,533.5
+Patrick Graham,Washington,West,Judy Sanchez,2016/01/02,Widgets,7,53.35,373.45
+Diane Gonzalez,Washington,West,Christine Wallace,2016/01/02,Junk,4,12.42,49.68
+Patrick Graham,Oregon,West,Rachel Harris,2016/01/03,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Susan Jacobs,2016/01/03,Widgets,9,53.35,480.15
+Sara Snyder,Massachusetts,East,Gary Young,2016/01/03,Things,3,17.83,53.49
+Randy Watson,New York,East,Anthony Berry,2016/01/03,Things,9,17.83,160.47
+Patrick Graham,California,West,Joan Robinson,2016/01/03,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Frank Ramos,2016/01/03,Stuff,1,16.32,16.32
+Diane Gonzalez,Oregon,West,Raymond Matthews,2016/01/03,Junk,1,12.42,12.42
+Diane Gonzalez,California,West,Mary Rose,2016/01/03,Things,10,17.83,178.3
+Patrick Graham,Washington,West,Jerry Collins,2016/01/03,Things,9,17.83,160.47
+Randy Watson,New Jersey,East,Randy Willis,2016/01/03,Things,3,17.83,53.49
+Diane Gonzalez,Washington,West,Denise Henry,2016/01/03,Widgets,9,53.35,480.15
+Patrick Graham,California,West,Andrew Adams,2016/01/04,Things,1,17.83,17.83
+Frances Warren,Connecticut,East,Cheryl Henderson,2016/01/04,Junk,7,12.42,86.94
+Sara Snyder,Connecticut,East,Carlos Stephens,2016/01/04,Junk,1,12.42,12.42
+Patrick Graham,Washington,West,Daniel Perez,2016/01/04,Junk,3,12.42,37.26
+Frances Warren,Massachusetts,East,Carl Howard,2016/01/04,Things,9,17.83,160.47
+Randy Watson,Massachusetts,East,Alice Davis,2016/01/04,Junk,9,12.42,111.78
+Diane Gonzalez,Oregon,West,Michael Cruz,2016/01/04,Things,2,17.83,35.66
+Sara Snyder,New York,East,Anthony Berry,2016/01/04,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Betty Stewart,2016/01/04,Junk,10,12.42,124.2
+Diane Gonzalez,California,West,Jacqueline Little,2016/01/04,Junk,5,12.42,62.1
+Sara Snyder,Connecticut,East,Jane Watkins,2016/01/05,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/01/05,Widgets,8,53.35,426.8
+Diane Gonzalez,Oregon,West,Phillip Harrison,2016/01/05,Junk,2,12.42,24.84
+Diane Gonzalez,Oregon,West,Linda Wagner,2016/01/05,Widgets,6,53.35,320.1
+Randy Watson,New York,East,Christina Oliver,2016/01/05,Stuff,9,16.32,146.88
+Sara Snyder,New York,East,Joseph Ryan,2016/01/05,Stuff,6,16.32,97.92
+Patrick Graham,Oregon,West,Henry Stanley,2016/01/05,Things,5,17.83,89.15
+Diane Gonzalez,California,West,Diana Hamilton,2016/01/05,Junk,4,12.42,49.68
+Frances Warren,Massachusetts,East,Kevin Torres,2016/01/05,Things,10,17.83,178.3
+Patrick Graham,California,West,Harold Duncan,2016/01/06,Things,1,17.83,17.83
+Frances Warren,New York,East,Mark Alexander,2016/01/06,Widgets,6,53.35,320.1
+Sara Snyder,New Jersey,East,Heather Larson,2016/01/06,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Carl Howard,2016/01/06,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Rose Matthews,2016/01/06,Junk,2,12.42,24.84
+Randy Watson,New York,East,Ralph Gomez,2016/01/06,Junk,3,12.42,37.26
+Patrick Graham,California,West,Timothy Gonzales,2016/01/06,Stuff,6,16.32,97.92
+Randy Watson,Massachusetts,East,Craig Collins,2016/01/06,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Frank Murphy,2016/01/06,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Lillian Burke,2016/01/06,Widgets,7,53.35,373.45
+Randy Watson,Massachusetts,East,Nancy Meyer,2016/01/06,Junk,1,12.42,12.42
+Frances Warren,Massachusetts,East,Jerry Butler,2016/01/06,Things,6,17.83,106.98
+Sara Snyder,Massachusetts,East,Harold Rodriguez,2016/01/06,Things,4,17.83,71.32
+Sara Snyder,New York,East,Eric Stanley,2016/01/07,Junk,1,12.42,12.42
+Frances Warren,Massachusetts,East,Joe Russell,2016/01/07,Junk,8,12.42,99.36
+Patrick Graham,California,West,Gerald Mcdonald,2016/01/07,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Ruth Kennedy,2016/01/07,Widgets,9,53.35,480.15
+Diane Gonzalez,Oregon,West,Anna Garcia,2016/01/07,Junk,4,12.42,49.68
+Patrick Graham,Oregon,West,Gloria Mcdonald,2016/01/07,Junk,1,12.42,12.42
+Patrick Graham,California,West,Adam Martin,2016/01/07,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Philip Rodriguez,2016/01/07,Things,4,17.83,71.32
+Randy Watson,Massachusetts,East,Steven Kelly,2016/01/07,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Ruth Burton,2016/01/07,Junk,6,12.42,74.52
+Patrick Graham,California,West,Rachel Stanley,2016/01/07,Junk,3,12.42,37.26
+Diane Gonzalez,California,West,Brenda Nelson,2016/01/08,Things,8,17.83,142.64
+Diane Gonzalez,Oregon,West,Edward Taylor,2016/01/08,Junk,4,12.42,49.68
+Diane Gonzalez,Washington,West,Philip Dean,2016/01/08,Things,3,17.83,53.49
+Frances Warren,Massachusetts,East,Jerry Butler,2016/01/08,Widgets,7,53.35,373.45
+Diane Gonzalez,California,West,Laura Gutierrez,2016/01/08,Widgets,7,53.35,373.45
+Frances Warren,Massachusetts,East,Andrew Howard,2016/01/08,Stuff,1,16.32,16.32
+Frances Warren,New York,East,Joe Ryan,2016/01/08,Stuff,4,16.32,65.28
+Sara Snyder,Massachusetts,East,Steven Miller,2016/01/08,Things,5,17.83,89.15
+Randy Watson,New York,East,Christina Little,2016/01/09,Stuff,7,16.32,114.24
+Patrick Graham,Nevada,West,Doris Diaz,2016/01/09,Things,4,17.83,71.32
+Sara Snyder,Massachusetts,East,Charles Ray,2016/01/09,Things,10,17.83,178.3
+Patrick Graham,Washington,West,Margaret James,2016/01/09,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Virginia Alvarez,2016/01/09,Widgets,10,53.35,533.5
+Patrick Graham,California,West,Frank Garrett,2016/01/09,Widgets,10,53.35,533.5
+Sara Snyder,New Jersey,East,Laura Wells,2016/01/09,Junk,8,12.42,99.36
+Patrick Graham,Oregon,West,Edward Taylor,2016/01/09,Widgets,2,53.35,106.7
+Sara Snyder,Connecticut,East,Sara Hawkins,2016/01/09,Stuff,8,16.32,130.56
+Patrick Graham,Oregon,West,Cynthia Matthews,2016/01/10,Junk,2,12.42,24.84
+Patrick Graham,Oregon,West,Kelly Gomez,2016/01/10,Widgets,7,53.35,373.45
+Sara Snyder,Massachusetts,East,Raymond Young,2016/01/10,Things,3,17.83,53.49
+Patrick Graham,Oregon,West,Billy Scott,2016/01/10,Stuff,4,16.32,65.28
+Diane Gonzalez,Washington,West,Arthur James,2016/01/10,Things,10,17.83,178.3
+Randy Watson,New York,East,Ronald Kim,2016/01/10,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Harold Daniels,2016/01/10,Junk,2,12.42,24.84
+Patrick Graham,California,West,Adam Martin,2016/01/10,Things,2,17.83,35.66
+Sara Snyder,Massachusetts,East,Phillip Young,2016/01/10,Things,8,17.83,142.64
+Sara Snyder,Connecticut,East,Lois Baker,2016/01/11,Junk,5,12.42,62.1
+Diane Gonzalez,California,West,Nicholas Schmidt,2016/01/11,Stuff,4,16.32,65.28
+Sara Snyder,New Jersey,East,Martha Mills,2016/01/11,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Cynthia Lewis,2016/01/11,Stuff,7,16.32,114.24
+Diane Gonzalez,Nevada,West,John Simpson,2016/01/11,Stuff,5,16.32,81.6
+Patrick Graham,California,West,Frances Parker,2016/01/11,Things,6,17.83,106.98
+Randy Watson,New York,East,Kenneth Lane,2016/01/11,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Cheryl Williamson,2016/01/12,Junk,5,12.42,62.1
+Diane Gonzalez,Washington,West,Joseph Willis,2016/01/12,Things,10,17.83,178.3
+Diane Gonzalez,California,West,Beverly Jacobs,2016/01/12,Junk,3,12.42,37.26
+Randy Watson,New Jersey,East,Benjamin Willis,2016/01/12,Things,3,17.83,53.49
+Diane Gonzalez,Nevada,West,Donna Williams,2016/01/12,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Ernest Hernandez,2016/01/12,Stuff,8,16.32,130.56
+Sara Snyder,New Jersey,East,Benjamin Spencer,2016/01/12,Widgets,8,53.35,426.8
+Randy Watson,New York,East,Kimberly Adams,2016/01/12,Widgets,9,53.35,480.15
+Randy Watson,New Jersey,East,Ernest Bishop,2016/01/12,Junk,6,12.42,74.52
+Patrick Graham,Oregon,West,Kevin Garza,2016/01/12,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Jason Berry,2016/01/13,Things,6,17.83,106.98
+Sara Snyder,Massachusetts,East,Martha Brown,2016/01/13,Stuff,9,16.32,146.88
+Randy Watson,New Jersey,East,Russell Day,2016/01/13,Stuff,10,16.32,163.2
+Sara Snyder,New Jersey,East,Sean Weaver,2016/01/13,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Deborah Wells,2016/01/13,Junk,1,12.42,12.42
+Sara Snyder,New York,East,Sandra Hicks,2016/01/13,Stuff,1,16.32,16.32
+Sara Snyder,New York,East,Gloria Harper,2016/01/13,Widgets,9,53.35,480.15
+Patrick Graham,California,West,Beverly Jacobs,2016/01/13,Things,5,17.83,89.15
+Diane Gonzalez,Washington,West,Gary Weaver,2016/01/14,Stuff,9,16.32,146.88
+Sara Snyder,New Jersey,East,David Allen,2016/01/14,Junk,9,12.42,111.78
+Randy Watson,New York,East,Juan Wallace,2016/01/14,Junk,9,12.42,111.78
+Diane Gonzalez,California,West,Kelly Wagner,2016/01/14,Junk,1,12.42,12.42
+Frances Warren,Massachusetts,East,Alice Davis,2016/01/14,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Craig Mcdonald,2016/01/14,Things,5,17.83,89.15
+Patrick Graham,Washington,West,Gary Cook,2016/01/14,Widgets,8,53.35,426.8
+Diane Gonzalez,Washington,West,Mildred Moore,2016/01/14,Junk,6,12.42,74.52
+Randy Watson,New York,East,Wayne Rivera,2016/01/15,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Maria Johnston,2016/01/15,Things,6,17.83,106.98
+Randy Watson,Massachusetts,East,Louise Rivera,2016/01/15,Widgets,7,53.35,373.45
+Sara Snyder,Massachusetts,East,Heather Lawrence,2016/01/15,Things,3,17.83,53.49
+Frances Warren,New York,East,Jessica Lewis,2016/01/15,Things,3,17.83,53.49
+Sara Snyder,New York,East,Lois Castillo,2016/01/15,Things,7,17.83,124.81
+Frances Warren,Massachusetts,East,Thomas Robinson,2016/01/15,Widgets,10,53.35,533.5
+Patrick Graham,California,West,Diana Hamilton,2016/01/15,Junk,5,12.42,62.1
+Patrick Graham,California,West,Tina Schmidt,2016/01/15,Junk,4,12.42,49.68
+Diane Gonzalez,California,West,Martha Bell,2016/01/15,Widgets,6,53.35,320.1
+Diane Gonzalez,California,West,Rachel Stanley,2016/01/15,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Marilyn Patterson,2016/01/16,Things,5,17.83,89.15
+Sara Snyder,New Jersey,East,Joshua Washington,2016/01/16,Junk,10,12.42,124.2
+Frances Warren,New York,East,Christopher Oliver,2016/01/16,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Maria Hughes,2016/01/16,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Marilyn Carpenter,2016/01/16,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Theresa Ellis,2016/01/16,Widgets,5,53.35,266.75
+Sara Snyder,Massachusetts,East,Linda Morrison,2016/01/16,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Linda Morrison,2016/01/16,Widgets,9,53.35,480.15
+Sara Snyder,New York,East,Anthony Berry,2016/01/16,Things,5,17.83,89.15
+Sara Snyder,Connecticut,East,Annie Collins,2016/01/16,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Brenda Cruz,2016/01/16,Widgets,8,53.35,426.8
+Patrick Graham,Washington,West,Arthur Green,2016/01/16,Junk,4,12.42,49.68
+Diane Gonzalez,California,West,Walter Reed,2016/01/16,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Evelyn Greene,2016/01/16,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Bonnie Wagner,2016/01/17,Things,8,17.83,142.64
+Frances Warren,New York,East,Joan Harvey,2016/01/17,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Joshua Washington,2016/01/17,Stuff,4,16.32,65.28
+Frances Warren,Massachusetts,East,Phillip Young,2016/01/17,Junk,10,12.42,124.2
+Randy Watson,New York,East,Jeffrey Miller,2016/01/17,Widgets,1,53.35,53.35
+Patrick Graham,California,West,Robin Murphy,2016/01/17,Stuff,9,16.32,146.88
+Patrick Graham,Oregon,West,Brian Bryant,2016/01/17,Stuff,5,16.32,81.6
+Randy Watson,New York,East,Billy Reed,2016/01/17,Things,5,17.83,89.15
+Patrick Graham,California,West,Kathy Porter,2016/01/17,Junk,5,12.42,62.1
+Sara Snyder,Massachusetts,East,Jean Torres,2016/01/17,Junk,5,12.42,62.1
+Randy Watson,New York,East,Jimmy Bailey,2016/01/17,Junk,2,12.42,24.84
+Patrick Graham,Oregon,West,Jean Griffin,2016/01/17,Junk,10,12.42,124.2
+Frances Warren,New Jersey,East,Sean Weaver,2016/01/18,Widgets,9,53.35,480.15
+Diane Gonzalez,California,West,Frances Parker,2016/01/18,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Michael Foster,2016/01/18,Junk,4,12.42,49.68
+Randy Watson,Massachusetts,East,Cheryl Myers,2016/01/18,Junk,6,12.42,74.52
+Frances Warren,Massachusetts,East,Jerry Palmer,2016/01/18,Things,5,17.83,89.15
+Sara Snyder,New Jersey,East,Cynthia Mccoy,2016/01/18,Widgets,4,53.35,213.4
+Diane Gonzalez,Washington,West,Charles Collins,2016/01/18,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Juan Reed,2016/01/18,Junk,9,12.42,111.78
+Diane Gonzalez,Washington,West,Gary Cook,2016/01/18,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Carolyn Scott,2016/01/18,Stuff,10,16.32,163.2
+Sara Snyder,Massachusetts,East,Martha Brown,2016/01/18,Stuff,6,16.32,97.92
+Sara Snyder,New Jersey,East,Adam Russell,2016/01/18,Junk,1,12.42,12.42
+Sara Snyder,New York,East,Debra Allen,2016/01/18,Junk,1,12.42,12.42
+Patrick Graham,Washington,West,Lisa Morrison,2016/01/18,Things,2,17.83,35.66
+Patrick Graham,Washington,West,Gary Weaver,2016/01/18,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Ashley Spencer,2016/01/18,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Jerry Davis,2016/01/19,Things,7,17.83,124.81
+Sara Snyder,Massachusetts,East,Alice Kelly,2016/01/19,Widgets,4,53.35,213.4
+Randy Watson,Massachusetts,East,Rose Baker,2016/01/19,Things,10,17.83,178.3
+Frances Warren,Massachusetts,East,Kevin Torres,2016/01/19,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Joshua Campbell,2016/01/19,Things,10,17.83,178.3
+Frances Warren,New York,East,Joshua Campbell,2016/01/19,Junk,10,12.42,124.2
+Randy Watson,Massachusetts,East,Harold Schmidt,2016/01/19,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Jeremy Baker,2016/01/19,Junk,8,12.42,99.36
+Randy Watson,New York,East,Kimberly Little,2016/01/19,Junk,6,12.42,74.52
+Randy Watson,New York,East,Shirley Murray,2016/01/19,Junk,1,12.42,12.42
+Sara Snyder,New York,East,Nancy Stephens,2016/01/19,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Joe Ryan,2016/01/19,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Wanda Cole,2016/01/19,Junk,2,12.42,24.84
+Randy Watson,New York,East,Antonio Mason,2016/01/19,Things,8,17.83,142.64
+Randy Watson,New York,East,Joan Thompson,2016/01/19,Things,7,17.83,124.81
+Sara Snyder,New York,East,Kimberly Adams,2016/01/19,Stuff,3,16.32,48.96
+Frances Warren,Massachusetts,East,Linda Morrison,2016/01/20,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Virginia Foster,2016/01/20,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Janice Mason,2016/01/20,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Russell Cooper,2016/01/20,Stuff,4,16.32,65.28
+Frances Warren,Massachusetts,East,Roger Gomez,2016/01/20,Junk,5,12.42,62.1
+Randy Watson,New Jersey,East,Jacqueline Wheeler,2016/01/20,Junk,8,12.42,99.36
+Diane Gonzalez,California,West,Gerald Mcdonald,2016/01/20,Junk,4,12.42,49.68
+Patrick Graham,California,West,Angela Fowler,2016/01/20,Widgets,5,53.35,266.75
+Randy Watson,New Jersey,East,Martha Mills,2016/01/20,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Adam Russell,2016/01/20,Stuff,3,16.32,48.96
+Sara Snyder,New Jersey,East,Judith Gray,2016/01/20,Widgets,5,53.35,266.75
+Randy Watson,New Jersey,East,Anthony Ruiz,2016/01/20,Widgets,7,53.35,373.45
+Sara Snyder,New York,East,Frances Campbell,2016/01/20,Widgets,10,53.35,533.5
+Patrick Graham,Washington,West,Craig Thomas,2016/01/21,Things,9,17.83,160.47
+Sara Snyder,New York,East,Joe Ryan,2016/01/21,Stuff,2,16.32,32.64
+Sara Snyder,New Jersey,East,Chris George,2016/01/21,Widgets,9,53.35,480.15
+Sara Snyder,New York,East,Craig Mcdonald,2016/01/21,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Alice Davis,2016/01/21,Widgets,5,53.35,266.75
+Patrick Graham,California,West,Michelle Sanchez,2016/01/21,Widgets,10,53.35,533.5
+Sara Snyder,New York,East,Kenneth Lane,2016/01/21,Stuff,7,16.32,114.24
+Randy Watson,Massachusetts,East,Carolyn Scott,2016/01/21,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Jason Jackson,2016/01/21,Things,6,17.83,106.98
+Patrick Graham,Washington,West,Beverly Garcia,2016/01/21,Junk,4,12.42,49.68
+Frances Warren,Connecticut,East,Alan Dean,2016/01/21,Junk,5,12.42,62.1
+Frances Warren,Connecticut,East,Cheryl Henderson,2016/01/21,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Randy Willis,2016/01/21,Junk,2,12.42,24.84
+Patrick Graham,Nevada,West,Doris Diaz,2016/01/21,Widgets,2,53.35,106.7
+Sara Snyder,New York,East,Wayne Rivera,2016/01/21,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Kathryn Fox,2016/01/21,Stuff,8,16.32,130.56
+Sara Snyder,New Jersey,East,Russell Day,2016/01/21,Widgets,2,53.35,106.7
+Sara Snyder,New Jersey,East,Joshua Washington,2016/01/21,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Kimberly Morris,2016/01/22,Widgets,10,53.35,533.5
+Patrick Graham,Washington,West,Philip Dean,2016/01/22,Widgets,4,53.35,213.4
+Diane Gonzalez,California,West,Joan Robinson,2016/01/22,Stuff,3,16.32,48.96
+Frances Warren,New York,East,Janet Freeman,2016/01/22,Widgets,1,53.35,53.35
+Sara Snyder,New York,East,Nancy Stephens,2016/01/22,Junk,2,12.42,24.84
+Patrick Graham,California,West,Nicholas Nguyen,2016/01/22,Junk,8,12.42,99.36
+Patrick Graham,California,West,Angela Fowler,2016/01/22,Widgets,2,53.35,106.7
+Sara Snyder,New Jersey,East,David Allen,2016/01/22,Widgets,10,53.35,533.5
+Frances Warren,New Jersey,East,Anthony Ruiz,2016/01/22,Things,7,17.83,124.81
+Sara Snyder,Massachusetts,East,Christopher Pierce,2016/01/22,Junk,4,12.42,49.68
+Randy Watson,New York,East,Kimberly Morris,2016/01/22,Things,2,17.83,35.66
+Sara Snyder,New York,East,Raymond Collins,2016/01/22,Widgets,7,53.35,373.45
+Patrick Graham,Washington,West,Samuel Daniels,2016/01/23,Widgets,9,53.35,480.15
+Randy Watson,New York,East,Brenda Cruz,2016/01/23,Widgets,6,53.35,320.1
+Diane Gonzalez,Oregon,West,Sharon Rice,2016/01/23,Widgets,7,53.35,373.45
+Patrick Graham,Oregon,West,Janet Stewart,2016/01/23,Stuff,5,16.32,81.6
+Diane Gonzalez,California,West,Howard Nelson,2016/01/23,Widgets,5,53.35,266.75
+Sara Snyder,New York,East,Raymond Collins,2016/01/23,Junk,10,12.42,124.2
+Diane Gonzalez,Washington,West,George Hill,2016/01/23,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Linda Rose,2016/01/23,Widgets,3,53.35,160.05
+Frances Warren,Massachusetts,East,Nancy Meyer,2016/01/23,Widgets,5,53.35,266.75
+Patrick Graham,Oregon,West,Joyce Garcia,2016/01/23,Junk,4,12.42,49.68
+Randy Watson,New York,East,Albert Miller,2016/01/24,Stuff,10,16.32,163.2
+Frances Warren,New York,East,Lori Collins,2016/01/24,Things,6,17.83,106.98
+Patrick Graham,Washington,West,Mildred Hernandez,2016/01/24,Junk,6,12.42,74.52
+Diane Gonzalez,Washington,West,Gary Weaver,2016/01/24,Junk,7,12.42,86.94
+Patrick Graham,Oregon,West,Gary Moreno,2016/01/24,Stuff,7,16.32,114.24
+Randy Watson,Connecticut,East,Lois Baker,2016/01/24,Junk,6,12.42,74.52
+Frances Warren,New York,East,Cynthia Ray,2016/01/24,Junk,2,12.42,24.84
+Diane Gonzalez,Washington,West,Jason Jackson,2016/01/24,Stuff,9,16.32,146.88
+Frances Warren,New York,East,Judith Woods,2016/01/24,Junk,4,12.42,49.68
+Randy Watson,Massachusetts,East,Randy West,2016/01/24,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Carolyn Vasquez,2016/01/24,Stuff,6,16.32,97.92
+Sara Snyder,New York,East,Linda Rose,2016/01/24,Junk,10,12.42,124.2
+Diane Gonzalez,California,West,Rebecca Ryan,2016/01/24,Things,6,17.83,106.98
+Patrick Graham,Washington,West,Mildred Hernandez,2016/01/24,Things,8,17.83,142.64
+Patrick Graham,Oregon,West,Joyce Garcia,2016/01/24,Junk,8,12.42,99.36
+Randy Watson,Massachusetts,East,Sandra Weaver,2016/01/24,Junk,3,12.42,37.26
+Diane Gonzalez,California,West,Nicholas Schmidt,2016/01/24,Things,9,17.83,160.47
+Randy Watson,New York,East,Todd Holmes,2016/01/24,Things,2,17.83,35.66
+Patrick Graham,Washington,West,Cheryl Morris,2016/01/24,Junk,7,12.42,86.94
+Patrick Graham,Washington,West,Joseph Willis,2016/01/24,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Andrea King,2016/01/24,Stuff,10,16.32,163.2
+Sara Snyder,New York,East,Christina Little,2016/01/25,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Lisa Thomas,2016/01/25,Widgets,5,53.35,266.75
+Randy Watson,Massachusetts,East,Matthew Smith,2016/01/25,Junk,8,12.42,99.36
+Frances Warren,Massachusetts,East,Jacqueline Hart,2016/01/25,Things,9,17.83,160.47
+Diane Gonzalez,Oregon,West,Martha Harper,2016/01/25,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Judith Gray,2016/01/25,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Arthur Simmons,2016/01/25,Widgets,10,53.35,533.5
+Sara Snyder,New Jersey,East,James Wheeler,2016/01/25,Widgets,9,53.35,480.15
+Sara Snyder,New York,East,Frances Campbell,2016/01/25,Things,3,17.83,53.49
+Randy Watson,New Jersey,East,Maria Hughes,2016/01/25,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Harold Daniels,2016/01/25,Junk,8,12.42,99.36
+Diane Gonzalez,Oregon,West,Marilyn Graham,2016/01/26,Widgets,6,53.35,320.1
+Diane Gonzalez,Oregon,West,Rose Matthews,2016/01/26,Junk,2,12.42,24.84
+Diane Gonzalez,Washington,West,Jason Berry,2016/01/26,Things,10,17.83,178.3
+Randy Watson,Massachusetts,East,Christopher Pierce,2016/01/26,Things,3,17.83,53.49
+Sara Snyder,New York,East,Joseph Ryan,2016/01/26,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Cheryl Howard,2016/01/26,Widgets,10,53.35,533.5
+Diane Gonzalez,California,West,Jimmy Warren,2016/01/26,Widgets,2,53.35,106.7
+Sara Snyder,New Jersey,East,Donna Bryant,2016/01/26,Things,9,17.83,160.47
+Patrick Graham,Washington,West,Beverly Garcia,2016/01/26,Widgets,8,53.35,426.8
+Sara Snyder,New Jersey,East,Peter Brown,2016/01/26,Things,6,17.83,106.98
+Sara Snyder,New Jersey,East,Eric Ellis,2016/01/26,Widgets,10,53.35,533.5
+Sara Snyder,New York,East,Kenneth Lane,2016/01/26,Junk,1,12.42,12.42
+Sara Snyder,Connecticut,East,Cheryl Henderson,2016/01/26,Junk,1,12.42,12.42
+Diane Gonzalez,Oregon,West,Roger Bell,2016/01/26,Things,6,17.83,106.98
+Patrick Graham,California,West,Joshua Baker,2016/01/26,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Carl Howard,2016/01/27,Junk,6,12.42,74.52
+Diane Gonzalez,Oregon,West,Teresa Fisher,2016/01/27,Things,5,17.83,89.15
+Frances Warren,New Jersey,East,Brian Ryan,2016/01/27,Stuff,8,16.32,130.56
+Randy Watson,Massachusetts,East,Louise Green,2016/01/27,Junk,6,12.42,74.52
+Patrick Graham,Washington,West,Craig Hicks,2016/01/27,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Kimberly Coleman,2016/01/27,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Cheryl Riley,2016/01/27,Junk,3,12.42,37.26
+Randy Watson,Massachusetts,East,Harold Rodriguez,2016/01/27,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Phyllis Johnston,2016/01/27,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Ralph Gomez,2016/01/27,Things,3,17.83,53.49
+Sara Snyder,New York,East,Nancy Scott,2016/01/27,Stuff,7,16.32,114.24
+Patrick Graham,California,West,Frances Parker,2016/01/27,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Andrea King,2016/01/28,Things,10,17.83,178.3
+Sara Snyder,New Jersey,East,Anthony Ruiz,2016/01/28,Junk,9,12.42,111.78
+Sara Snyder,New Jersey,East,Kelly Daniels,2016/01/28,Stuff,1,16.32,16.32
+Sara Snyder,New Jersey,East,Benjamin Spencer,2016/01/28,Stuff,10,16.32,163.2
+Sara Snyder,Massachusetts,East,Eric Robertson,2016/01/28,Junk,5,12.42,62.1
+Patrick Graham,California,West,Norma West,2016/01/28,Junk,1,12.42,12.42
+Patrick Graham,Oregon,West,Joyce Garcia,2016/01/28,Junk,8,12.42,99.36
+Randy Watson,Massachusetts,East,Sean Carr,2016/01/28,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Ashley Adams,2016/01/28,Widgets,1,53.35,53.35
+Randy Watson,Connecticut,East,Ryan Arnold,2016/01/28,Stuff,7,16.32,114.24
+Sara Snyder,New York,East,Cynthia Ray,2016/01/28,Things,7,17.83,124.81
+Diane Gonzalez,Nevada,West,Kimberly Bennett,2016/01/28,Things,9,17.83,160.47
+Patrick Graham,Washington,West,Gary Cook,2016/01/28,Widgets,3,53.35,160.05
+Randy Watson,Massachusetts,East,Wanda Cole,2016/01/29,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Emily Duncan,2016/01/29,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Thomas Robinson,2016/01/29,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Cynthia Brooks,2016/01/29,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Virginia Foster,2016/01/29,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Robert Collins,2016/01/29,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Ashley Spencer,2016/01/29,Stuff,3,16.32,48.96
+Patrick Graham,California,West,Tammy Clark,2016/01/29,Stuff,3,16.32,48.96
+Frances Warren,New York,East,Emily Patterson,2016/01/29,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Wayne Rivera,2016/01/29,Widgets,5,53.35,266.75
+Sara Snyder,New Jersey,East,Cynthia Lewis,2016/01/29,Things,2,17.83,35.66
+Randy Watson,Massachusetts,East,Alice Kelly,2016/01/29,Junk,1,12.42,12.42
+Diane Gonzalez,Washington,West,Susan Gomez,2016/01/29,Things,8,17.83,142.64
+Patrick Graham,California,West,Jacqueline Little,2016/01/29,Things,5,17.83,89.15
+Frances Warren,New York,East,Peter Gilbert,2016/01/29,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Joshua Diaz,2016/01/30,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Gary Cook,2016/01/30,Stuff,5,16.32,81.6
+Sara Snyder,New York,East,Christina Oliver,2016/01/30,Things,2,17.83,35.66
+Randy Watson,New Jersey,East,Kelly Daniels,2016/01/30,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Carlos Greene,2016/01/30,Things,7,17.83,124.81
+Patrick Graham,Washington,West,Gary Cook,2016/01/30,Stuff,9,16.32,146.88
+Patrick Graham,Washington,West,Mildred Moore,2016/01/30,Stuff,4,16.32,65.28
+Sara Snyder,New Jersey,East,Frank Spencer,2016/01/30,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Stephen Martinez,2016/01/31,Junk,7,12.42,86.94
+Patrick Graham,Oregon,West,Rachel Harris,2016/01/31,Junk,3,12.42,37.26
+Frances Warren,New Jersey,East,Albert Dunn,2016/01/31,Widgets,8,53.35,426.8
+Randy Watson,New York,East,Raymond Collins,2016/01/31,Stuff,10,16.32,163.2
+Randy Watson,New York,East,Janet Freeman,2016/01/31,Widgets,10,53.35,533.5
+Frances Warren,Connecticut,East,Annie Collins,2016/03/01,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Joan Cooper,2016/03/01,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Todd Miller,2016/03/01,Stuff,10,16.32,163.2
+Randy Watson,Massachusetts,East,Louise Green,2016/03/01,Widgets,8,53.35,426.8
+Diane Gonzalez,Nevada,West,Michelle Elliott,2016/03/01,Widgets,3,53.35,160.05
+Sara Snyder,Massachusetts,East,Walter Meyer,2016/03/01,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Chris George,2016/03/01,Junk,3,12.42,37.26
+Diane Gonzalez,Washington,West,Paula Ross,2016/03/01,Junk,8,12.42,99.36
+Randy Watson,Massachusetts,East,Jean Fowler,2016/03/01,Stuff,6,16.32,97.92
+Randy Watson,New Jersey,East,Stephen Welch,2016/03/01,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Lisa Thomas,2016/03/01,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Brandon King,2016/03/01,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Shirley Rivera,2016/03/01,Widgets,9,53.35,480.15
+Sara Snyder,Massachusetts,East,Teresa Walker,2016/03/01,Stuff,3,16.32,48.96
+Frances Warren,New Jersey,East,Jennifer Simpson,2016/03/01,Things,8,17.83,142.64
+Sara Snyder,Massachusetts,East,Walter Meyer,2016/03/01,Stuff,2,16.32,32.64
+Randy Watson,Massachusetts,East,Frank Murphy,2016/03/01,Widgets,6,53.35,320.1
+Randy Watson,New York,East,Louis Marshall,2016/03/01,Things,10,17.83,178.3
+Sara Snyder,Massachusetts,East,Douglas Duncan,2016/03/01,Widgets,10,53.35,533.5
+Diane Gonzalez,Oregon,West,Kelly Gomez,2016/03/02,Widgets,5,53.35,266.75
+Frances Warren,New Jersey,East,Edward Wells,2016/03/02,Stuff,2,16.32,32.64
+Patrick Graham,Oregon,West,Billy Scott,2016/03/02,Junk,2,12.42,24.84
+Randy Watson,Massachusetts,East,Rose Baker,2016/03/02,Widgets,4,53.35,213.4
+Diane Gonzalez,California,West,Brenda Nelson,2016/03/02,Junk,8,12.42,99.36
+Randy Watson,New Jersey,East,Edward Wells,2016/03/02,Widgets,7,53.35,373.45
+Sara Snyder,New Jersey,East,Tammy Hart,2016/03/02,Junk,4,12.42,49.68
+Randy Watson,New Jersey,East,Theresa Torres,2016/03/02,Junk,6,12.42,74.52
+Sara Snyder,Connecticut,East,Phyllis Grant,2016/03/02,Widgets,8,53.35,426.8
+Sara Snyder,Massachusetts,East,Joe Russell,2016/03/02,Stuff,5,16.32,81.6
+Patrick Graham,Oregon,West,Clarence Bishop,2016/03/02,Stuff,1,16.32,16.32
+Sara Snyder,Connecticut,East,Albert Bradley,2016/03/02,Junk,4,12.42,49.68
+Patrick Graham,California,West,Timothy Gonzales,2016/03/02,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Tina Jones,2016/03/02,Stuff,6,16.32,97.92
+Sara Snyder,Connecticut,East,Ryan Arnold,2016/03/02,Stuff,7,16.32,114.24
+Diane Gonzalez,Washington,West,Arthur Green,2016/03/03,Junk,9,12.42,111.78
+Randy Watson,Connecticut,East,Carlos Stephens,2016/03/03,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Amanda Bryant,2016/03/03,Stuff,2,16.32,32.64
+Randy Watson,Massachusetts,East,Rose Baker,2016/03/03,Junk,10,12.42,124.2
+Diane Gonzalez,Washington,West,Angela Sullivan,2016/03/03,Junk,8,12.42,99.36
+Patrick Graham,California,West,Frank Garrett,2016/03/03,Things,1,17.83,17.83
+Patrick Graham,Oregon,West,Rose Matthews,2016/03/03,Widgets,1,53.35,53.35
+Randy Watson,New Jersey,East,Denise Mitchell,2016/03/03,Widgets,3,53.35,160.05
+Randy Watson,Massachusetts,East,Thomas Robinson,2016/03/03,Junk,9,12.42,111.78
+Frances Warren,New York,East,Marilyn Martin,2016/03/03,Things,7,17.83,124.81
+Patrick Graham,Oregon,West,Sharon Rice,2016/03/03,Things,4,17.83,71.32
+Patrick Graham,Washington,West,Sharon Montgomery,2016/03/03,Things,10,17.83,178.3
+Diane Gonzalez,California,West,Jimmy Warren,2016/03/03,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Phyllis Ward,2016/03/03,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Todd Miller,2016/03/03,Things,9,17.83,160.47
+Diane Gonzalez,Oregon,West,Martha Harper,2016/03/03,Widgets,5,53.35,266.75
+Sara Snyder,New Jersey,East,Phyllis Gonzales,2016/03/03,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Alice Davis,2016/03/03,Junk,4,12.42,49.68
+Diane Gonzalez,Washington,West,Russell Cooper,2016/03/03,Things,2,17.83,35.66
+Sara Snyder,Connecticut,East,Nicholas Ward,2016/03/03,Things,7,17.83,124.81
+Diane Gonzalez,Washington,West,Christine Wallace,2016/03/04,Junk,6,12.42,74.52
+Patrick Graham,Oregon,West,Kathy Lee,2016/03/04,Junk,2,12.42,24.84
+Diane Gonzalez,Oregon,West,Joyce Garcia,2016/03/04,Stuff,6,16.32,97.92
+Sara Snyder,New York,East,Betty Stewart,2016/03/04,Stuff,9,16.32,146.88
+Randy Watson,New York,East,Kimberly Morris,2016/03/04,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Bruce Cruz,2016/03/04,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Eric Robertson,2016/03/04,Junk,3,12.42,37.26
+Randy Watson,New Jersey,East,Johnny Fowler,2016/03/04,Junk,10,12.42,124.2
+Randy Watson,New Jersey,East,Edward Wells,2016/03/04,Stuff,8,16.32,130.56
+Sara Snyder,Massachusetts,East,Jerry Butler,2016/03/04,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Todd Miller,2016/03/04,Junk,8,12.42,99.36
+Patrick Graham,Oregon,West,Linda Wagner,2016/03/04,Stuff,4,16.32,65.28
+Frances Warren,Massachusetts,East,Phillip Johnston,2016/03/04,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Carl Howard,2016/03/04,Things,9,17.83,160.47
+Sara Snyder,Connecticut,East,Annie Collins,2016/03/04,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Robert Hayes,2016/03/04,Junk,6,12.42,74.52
+Randy Watson,New Jersey,East,Peter Brown,2016/03/05,Widgets,3,53.35,160.05
+Sara Snyder,New York,East,Cynthia Ray,2016/03/05,Things,1,17.83,17.83
+Sara Snyder,New York,East,Nicholas Howell,2016/03/05,Widgets,7,53.35,373.45
+Sara Snyder,New York,East,Frances Campbell,2016/03/05,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Louis Mason,2016/03/05,Junk,8,12.42,99.36
+Diane Gonzalez,Washington,West,Christine Wallace,2016/03/05,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Teresa Walker,2016/03/05,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Sean Carr,2016/03/05,Things,5,17.83,89.15
+Patrick Graham,Oregon,West,Edward Taylor,2016/03/06,Things,9,17.83,160.47
+Sara Snyder,New York,East,Lois Castillo,2016/03/06,Junk,8,12.42,99.36
+Patrick Graham,Nevada,West,Laura Lewis,2016/03/06,Junk,8,12.42,99.36
+Diane Gonzalez,Oregon,West,Lillian Howard,2016/03/06,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,David Allen,2016/03/06,Widgets,2,53.35,106.7
+Patrick Graham,Washington,West,Jessica Miller,2016/03/06,Widgets,5,53.35,266.75
+Diane Gonzalez,Oregon,West,Brian Bryant,2016/03/06,Stuff,8,16.32,130.56
+Randy Watson,New York,East,Peter Gilbert,2016/03/06,Widgets,10,53.35,533.5
+Frances Warren,Massachusetts,East,Jeremy Richards,2016/03/06,Things,5,17.83,89.15
+Sara Snyder,New York,East,Anna Wheeler,2016/03/06,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Anthony Ruiz,2016/03/06,Things,4,17.83,71.32
+Patrick Graham,Oregon,West,Thomas Lane,2016/03/06,Junk,6,12.42,74.52
+Sara Snyder,Connecticut,East,Raymond Clark,2016/03/06,Things,6,17.83,106.98
+Sara Snyder,New Jersey,East,Adam Russell,2016/03/06,Widgets,7,53.35,373.45
+Patrick Graham,Nevada,West,Rachel Dunn,2016/03/06,Junk,10,12.42,124.2
+Randy Watson,Massachusetts,East,Harold Schmidt,2016/03/06,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Roger Gomez,2016/03/06,Widgets,2,53.35,106.7
+Randy Watson,New Jersey,East,Rebecca Williams,2016/03/07,Things,1,17.83,17.83
+Diane Gonzalez,Washington,West,Joseph Dixon,2016/03/07,Junk,9,12.42,111.78
+Patrick Graham,Washington,West,Jean Stephens,2016/03/07,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Dorothy Patterson,2016/03/07,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Harold Schmidt,2016/03/07,Widgets,1,53.35,53.35
+Patrick Graham,Nevada,West,Craig Lewis,2016/03/07,Things,4,17.83,71.32
+Randy Watson,New York,East,Lawrence Ruiz,2016/03/07,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Jimmy Bailey,2016/03/07,Widgets,10,53.35,533.5
+Frances Warren,Connecticut,East,Ashley Olson,2016/03/07,Junk,10,12.42,124.2
+Diane Gonzalez,California,West,Robin Murphy,2016/03/07,Stuff,8,16.32,130.56
+Diane Gonzalez,Nevada,West,Doris Diaz,2016/03/07,Widgets,7,53.35,373.45
+Sara Snyder,Massachusetts,East,George Stone,2016/03/07,Junk,9,12.42,111.78
+Sara Snyder,New Jersey,East,Theresa Torres,2016/03/07,Stuff,1,16.32,16.32
+Randy Watson,Massachusetts,East,Justin Dixon,2016/03/07,Junk,10,12.42,124.2
+Frances Warren,Massachusetts,East,Brandon King,2016/03/08,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Bobby Mitchell,2016/03/08,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Evelyn Greene,2016/03/08,Widgets,4,53.35,213.4
+Sara Snyder,New York,East,Todd Holmes,2016/03/08,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Joe Ryan,2016/03/08,Things,4,17.83,71.32
+Sara Snyder,Massachusetts,East,Sean Carr,2016/03/08,Widgets,9,53.35,480.15
+Diane Gonzalez,California,West,Judy Lopez,2016/03/08,Widgets,8,53.35,426.8
+Sara Snyder,Massachusetts,East,Carl Ford,2016/03/08,Junk,1,12.42,12.42
+Patrick Graham,Nevada,West,Laura Lewis,2016/03/08,Junk,6,12.42,74.52
+Frances Warren,Massachusetts,East,Eugene Flores,2016/03/08,Widgets,2,53.35,106.7
+Diane Gonzalez,Washington,West,Phillip Mills,2016/03/08,Widgets,7,53.35,373.45
+Patrick Graham,California,West,Frank Garrett,2016/03/08,Junk,9,12.42,111.78
+Patrick Graham,California,West,Joan Robinson,2016/03/08,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Phillip Johnston,2016/03/08,Stuff,6,16.32,97.92
+Sara Snyder,New York,East,Katherine Mcdonald,2016/03/08,Stuff,4,16.32,65.28
+Randy Watson,New York,East,Ruby Matthews,2016/03/09,Junk,6,12.42,74.52
+Patrick Graham,California,West,Judy Lopez,2016/03/09,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Jeremy Richards,2016/03/09,Things,3,17.83,53.49
+Frances Warren,New York,East,Frank Ramos,2016/03/09,Widgets,7,53.35,373.45
+Patrick Graham,Nevada,West,Michelle Elliott,2016/03/09,Stuff,1,16.32,16.32
+Diane Gonzalez,Oregon,West,Julie Gonzalez,2016/03/09,Things,8,17.83,142.64
+Patrick Graham,California,West,Evelyn Elliott,2016/03/09,Junk,6,12.42,74.52
+Randy Watson,New Jersey,East,Ronald Lopez,2016/03/09,Widgets,1,53.35,53.35
+Diane Gonzalez,Nevada,West,Sandra Hughes,2016/03/09,Junk,4,12.42,49.68
+Sara Snyder,New Jersey,East,Rachel Larson,2016/03/09,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Russell Day,2016/03/09,Junk,6,12.42,74.52
+Diane Gonzalez,California,West,Jimmy Warren,2016/03/09,Stuff,3,16.32,48.96
+Randy Watson,Connecticut,East,Henry Cox,2016/03/10,Junk,10,12.42,124.2
+Frances Warren,Connecticut,East,Russell Romero,2016/03/10,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Edward Cooper,2016/03/10,Things,5,17.83,89.15
+Sara Snyder,New Jersey,East,Kathy Rice,2016/03/10,Things,4,17.83,71.32
+Randy Watson,New Jersey,East,Jacqueline Wheeler,2016/03/10,Junk,9,12.42,111.78
+Patrick Graham,Nevada,West,Kimberly Bennett,2016/03/10,Junk,10,12.42,124.2
+Diane Gonzalez,Washington,West,Arthur James,2016/03/10,Widgets,8,53.35,426.8
+Sara Snyder,New Jersey,East,Eugene Hayes,2016/03/10,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Harold Rodriguez,2016/03/10,Things,7,17.83,124.81
+Sara Snyder,New York,East,Anthony Berry,2016/03/10,Junk,4,12.42,49.68
+Frances Warren,Massachusetts,East,Roger Andrews,2016/03/11,Things,1,17.83,17.83
+Randy Watson,Connecticut,East,Russell Romero,2016/03/11,Junk,7,12.42,86.94
+Patrick Graham,Oregon,West,Teresa Fisher,2016/03/11,Widgets,8,53.35,426.8
+Frances Warren,Massachusetts,East,Aaron Morris,2016/03/11,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Cheryl Riley,2016/03/11,Widgets,4,53.35,213.4
+Sara Snyder,New Jersey,East,Adam Russell,2016/03/11,Junk,6,12.42,74.52
+Sara Snyder,Connecticut,East,Jane Watkins,2016/03/11,Stuff,7,16.32,114.24
+Randy Watson,New York,East,Joseph Boyd,2016/03/11,Widgets,6,53.35,320.1
+Sara Snyder,New York,East,Sandra Hicks,2016/03/11,Stuff,10,16.32,163.2
+Diane Gonzalez,Oregon,West,Kenneth West,2016/03/11,Things,9,17.83,160.47
+Sara Snyder,Massachusetts,East,Cheryl Myers,2016/03/11,Widgets,9,53.35,480.15
+Patrick Graham,Oregon,West,Jean Griffin,2016/03/12,Things,4,17.83,71.32
+Sara Snyder,New York,East,Emily Patterson,2016/03/12,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Peter Gilbert,2016/03/12,Widgets,9,53.35,480.15
+Randy Watson,Massachusetts,East,Paul Perkins,2016/03/12,Things,3,17.83,53.49
+Sara Snyder,New York,East,Raymond Collins,2016/03/12,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Nancy Scott,2016/03/12,Junk,2,12.42,24.84
+Diane Gonzalez,Washington,West,Henry Sanders,2016/03/12,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Albert Miller,2016/03/12,Junk,7,12.42,86.94
+Frances Warren,Massachusetts,East,Cheryl Williamson,2016/03/12,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Lori Collins,2016/03/12,Things,5,17.83,89.15
+Diane Gonzalez,Washington,West,Jerry Collins,2016/03/12,Stuff,9,16.32,146.88
+Patrick Graham,Oregon,West,Kathy Lee,2016/03/12,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Matthew Smith,2016/03/12,Things,8,17.83,142.64
+Sara Snyder,Massachusetts,East,Roger Andrews,2016/03/12,Junk,6,12.42,74.52
+Randy Watson,Connecticut,East,Sandra Meyer,2016/03/12,Stuff,10,16.32,163.2
+Sara Snyder,New Jersey,East,Adam Russell,2016/03/12,Things,9,17.83,160.47
+Patrick Graham,Washington,West,Pamela Alexander,2016/03/12,Junk,2,12.42,24.84
+Randy Watson,New York,East,Randy Burton,2016/03/13,Stuff,4,16.32,65.28
+Frances Warren,Connecticut,East,Russell Romero,2016/03/13,Junk,1,12.42,12.42
+Sara Snyder,New York,East,Phyllis Ward,2016/03/13,Widgets,10,53.35,533.5
+Diane Gonzalez,Oregon,West,Anna Garcia,2016/03/13,Stuff,6,16.32,97.92
+Patrick Graham,Oregon,West,Anna Garcia,2016/03/13,Junk,9,12.42,111.78
+Sara Snyder,Connecticut,East,Jane Watkins,2016/03/13,Junk,8,12.42,99.36
+Diane Gonzalez,Washington,West,Gloria Morris,2016/03/13,Stuff,1,16.32,16.32
+Frances Warren,New York,East,Kenneth Fernandez,2016/03/13,Stuff,5,16.32,81.6
+Sara Snyder,New Jersey,East,Ronald Lopez,2016/03/13,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Kevin Barnes,2016/03/13,Things,2,17.83,35.66
+Sara Snyder,New Jersey,East,Keith Berry,2016/03/13,Widgets,10,53.35,533.5
+Sara Snyder,Massachusetts,East,Susan Watkins,2016/03/13,Widgets,5,53.35,266.75
+Sara Snyder,Connecticut,East,Lois Baker,2016/03/13,Junk,3,12.42,37.26
+Patrick Graham,Oregon,West,Julie Gonzalez,2016/03/13,Junk,8,12.42,99.36
+Randy Watson,Massachusetts,East,Alice Kelly,2016/03/13,Widgets,4,53.35,213.4
+Patrick Graham,Oregon,West,Kathy Lee,2016/03/13,Stuff,8,16.32,130.56
+Patrick Graham,Washington,West,Maria Romero,2016/03/13,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,Jeremy Baker,2016/03/14,Junk,9,12.42,111.78
+Randy Watson,New York,East,Mark Alexander,2016/03/14,Things,10,17.83,178.3
+Patrick Graham,Washington,West,Craig Thomas,2016/03/14,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Cheryl Riley,2016/03/14,Stuff,9,16.32,146.88
+Sara Snyder,Massachusetts,East,Bruce Reynolds,2016/03/14,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Ashley Spencer,2016/03/14,Stuff,9,16.32,146.88
+Randy Watson,New York,East,Wayne Rivera,2016/03/14,Junk,8,12.42,99.36
+Randy Watson,Connecticut,East,Maria Long,2016/03/14,Widgets,6,53.35,320.1
+Randy Watson,New York,East,Ralph Gomez,2016/03/14,Things,1,17.83,17.83
+Diane Gonzalez,Washington,West,Sharon Montgomery,2016/03/14,Things,1,17.83,17.83
+Patrick Graham,California,West,Robin Murphy,2016/03/14,Junk,3,12.42,37.26
+Frances Warren,New York,East,Joe Ryan,2016/03/15,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Jerry Palmer,2016/03/15,Widgets,2,53.35,106.7
+Sara Snyder,New York,East,Jerry Pierce,2016/03/15,Widgets,4,53.35,213.4
+Patrick Graham,Nevada,West,Paula Watson,2016/03/15,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Heather Andrews,2016/03/15,Widgets,8,53.35,426.8
+Frances Warren,Massachusetts,East,Michael Foster,2016/03/15,Junk,6,12.42,74.52
+Patrick Graham,Oregon,West,Lillian Howard,2016/03/15,Junk,9,12.42,111.78
+Diane Gonzalez,Washington,West,Angela Sullivan,2016/03/15,Junk,6,12.42,74.52
+Randy Watson,New Jersey,East,Jacqueline Wheeler,2016/03/15,Junk,5,12.42,62.1
+Patrick Graham,Washington,West,Annie Hughes,2016/03/15,Stuff,4,16.32,65.28
+Frances Warren,New Jersey,East,Denise Mitchell,2016/03/15,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Joseph Bishop,2016/03/15,Things,4,17.83,71.32
+Patrick Graham,Washington,West,Mildred Hernandez,2016/03/15,Junk,3,12.42,37.26
+Sara Snyder,Massachusetts,East,Steven Miller,2016/03/15,Junk,9,12.42,111.78
+Diane Gonzalez,Washington,West,Gary Cook,2016/03/15,Junk,6,12.42,74.52
+Patrick Graham,Washington,West,Arthur Green,2016/03/15,Widgets,10,53.35,533.5
+Patrick Graham,Nevada,West,Rachel Dunn,2016/03/15,Junk,2,12.42,24.84
+Diane Gonzalez,California,West,Andrew Adams,2016/03/15,Widgets,7,53.35,373.45
+Patrick Graham,Oregon,West,Roger Bell,2016/03/15,Stuff,3,16.32,48.96
+Sara Snyder,Massachusetts,East,Brandon King,2016/03/15,Stuff,10,16.32,163.2
+Patrick Graham,Nevada,West,Kimberly Bennett,2016/03/15,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Gloria Harper,2016/03/15,Stuff,5,16.32,81.6
+Frances Warren,Massachusetts,East,Aaron Morris,2016/03/16,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Todd Spencer,2016/03/16,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Kathy Schmidt,2016/03/16,Junk,9,12.42,111.78
+Randy Watson,New York,East,Tammy Ferguson,2016/03/16,Widgets,1,53.35,53.35
+Randy Watson,Massachusetts,East,Sandra Weaver,2016/03/16,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Jane Sims,2016/03/16,Things,8,17.83,142.64
+Patrick Graham,Oregon,West,Gloria Mcdonald,2016/03/16,Stuff,2,16.32,32.64
+Sara Snyder,New Jersey,East,Marilyn Patterson,2016/03/16,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Phillip Johnston,2016/03/16,Things,2,17.83,35.66
+Frances Warren,Massachusetts,East,Cheryl Myers,2016/03/16,Junk,8,12.42,99.36
+Patrick Graham,Nevada,West,Michelle Elliott,2016/03/16,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Bonnie Shaw,2016/03/16,Junk,4,12.42,49.68
+Randy Watson,Massachusetts,East,Antonio Hunter,2016/03/16,Junk,9,12.42,111.78
+Randy Watson,Massachusetts,East,Jeremy Richards,2016/03/16,Widgets,3,53.35,160.05
+Patrick Graham,Washington,West,Christine Jacobs,2016/03/16,Stuff,4,16.32,65.28
+Patrick Graham,Oregon,West,Joseph Reynolds,2016/03/16,Junk,1,12.42,12.42
+Patrick Graham,Oregon,West,Henry Day,2016/03/17,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Deborah Wells,2016/03/17,Widgets,6,53.35,320.1
+Diane Gonzalez,Washington,West,Ryan Ramos,2016/03/17,Widgets,4,53.35,213.4
+Patrick Graham,California,West,Martha Bell,2016/03/17,Stuff,7,16.32,114.24
+Randy Watson,Massachusetts,East,Bobby Mitchell,2016/03/17,Stuff,5,16.32,81.6
+Patrick Graham,California,West,Harry Torres,2016/03/17,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Michelle Henderson,2016/03/17,Stuff,5,16.32,81.6
+Randy Watson,Massachusetts,East,Joe Russell,2016/03/17,Junk,10,12.42,124.2
+Patrick Graham,Oregon,West,Roger Bell,2016/03/17,Widgets,3,53.35,160.05
+Diane Gonzalez,Washington,West,Joseph Willis,2016/03/17,Things,3,17.83,53.49
+Randy Watson,Massachusetts,East,George Stone,2016/03/17,Things,10,17.83,178.3
+Sara Snyder,Massachusetts,East,Aaron Morris,2016/03/18,Junk,8,12.42,99.36
+Frances Warren,New Jersey,East,Robert Collins,2016/03/18,Widgets,4,53.35,213.4
+Sara Snyder,Connecticut,East,Clarence Mason,2016/03/18,Junk,7,12.42,86.94
+Patrick Graham,California,West,Joan Robinson,2016/03/18,Widgets,2,53.35,106.7
+Patrick Graham,Washington,West,Mildred Hernandez,2016/03/18,Junk,8,12.42,99.36
+Randy Watson,Massachusetts,East,Amanda Bryant,2016/03/18,Stuff,4,16.32,65.28
+Sara Snyder,New Jersey,East,Benjamin Spencer,2016/03/18,Junk,6,12.42,74.52
+Sara Snyder,New Jersey,East,Sean Weaver,2016/03/18,Junk,10,12.42,124.2
+Frances Warren,New Jersey,East,Kelly Daniels,2016/03/18,Junk,5,12.42,62.1
+Patrick Graham,Washington,West,Ruth Day,2016/03/18,Junk,3,12.42,37.26
+Frances Warren,Connecticut,East,Benjamin Phillips,2016/03/18,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,George Stone,2016/03/18,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Angela Sullivan,2016/03/18,Widgets,3,53.35,160.05
+Diane Gonzalez,Washington,West,Judy Sanchez,2016/03/18,Junk,1,12.42,12.42
+Patrick Graham,California,West,Joan Robinson,2016/03/18,Widgets,8,53.35,426.8
+Sara Snyder,New York,East,Debra Allen,2016/03/19,Stuff,6,16.32,97.92
+Sara Snyder,New Jersey,East,Laura Wells,2016/03/19,Things,6,17.83,106.98
+Randy Watson,Connecticut,East,Ryan Arnold,2016/03/19,Junk,1,12.42,12.42
+Randy Watson,New York,East,Jerry Pierce,2016/03/19,Junk,6,12.42,74.52
+Diane Gonzalez,Washington,West,Phillip Mills,2016/03/19,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Harold Hunter,2016/03/19,Junk,2,12.42,24.84
+Diane Gonzalez,Washington,West,Marilyn Carpenter,2016/03/19,Widgets,6,53.35,320.1
+Sara Snyder,New York,East,Irene Wells,2016/03/19,Stuff,8,16.32,130.56
+Diane Gonzalez,Oregon,West,Rose Matthews,2016/03/19,Junk,5,12.42,62.1
+Randy Watson,Massachusetts,East,Kevin Torres,2016/03/19,Things,5,17.83,89.15
+Sara Snyder,New York,East,Ralph Gomez,2016/03/19,Stuff,10,16.32,163.2
+Patrick Graham,Washington,West,Carol Pierce,2016/03/19,Junk,1,12.42,12.42
+Patrick Graham,Washington,West,Evelyn Lane,2016/03/19,Things,1,17.83,17.83
+Diane Gonzalez,Washington,West,Maria Romero,2016/03/20,Junk,7,12.42,86.94
+Patrick Graham,Washington,West,Denise Henry,2016/03/20,Junk,6,12.42,74.52
+Frances Warren,New Jersey,East,Edward Wells,2016/03/20,Things,9,17.83,160.47
+Randy Watson,Massachusetts,East,Theresa Ellis,2016/03/20,Junk,4,12.42,49.68
+Patrick Graham,California,West,Frances Parker,2016/03/20,Widgets,3,53.35,160.05
+Frances Warren,New York,East,Chris Gilbert,2016/03/20,Things,9,17.83,160.47
+Patrick Graham,California,West,Joan Robinson,2016/03/20,Widgets,1,53.35,53.35
+Sara Snyder,Massachusetts,East,Beverly Hamilton,2016/03/20,Widgets,7,53.35,373.45
+Sara Snyder,New Jersey,East,Keith Berry,2016/03/20,Things,9,17.83,160.47
+Randy Watson,Massachusetts,East,Sandra Weaver,2016/03/20,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Roger Gomez,2016/03/20,Widgets,3,53.35,160.05
+Patrick Graham,Oregon,West,Brian Roberts,2016/03/20,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Daniel Perez,2016/03/20,Junk,8,12.42,99.36
+Randy Watson,New York,East,Katherine Mcdonald,2016/03/20,Junk,10,12.42,124.2
+Frances Warren,New York,East,Joseph Boyd,2016/03/20,Things,7,17.83,124.81
+Frances Warren,Connecticut,East,Ryan Arnold,2016/03/20,Stuff,5,16.32,81.6
+Patrick Graham,Washington,West,Evelyn Lane,2016/03/21,Things,5,17.83,89.15
+Randy Watson,Massachusetts,East,Ann Duncan,2016/03/21,Things,5,17.83,89.15
+Sara Snyder,Massachusetts,East,Lori Shaw,2016/03/21,Things,1,17.83,17.83
+Sara Snyder,Massachusetts,East,Kevin Barnes,2016/03/21,Widgets,2,53.35,106.7
+Randy Watson,Connecticut,East,Cheryl Henderson,2016/03/21,Junk,2,12.42,24.84
+Frances Warren,New Jersey,East,Jacqueline Wheeler,2016/03/21,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Irene Wells,2016/03/21,Stuff,1,16.32,16.32
+Patrick Graham,Oregon,West,Brian Roberts,2016/03/21,Things,9,17.83,160.47
+Randy Watson,Massachusetts,East,Bruce Nelson,2016/03/21,Things,9,17.83,160.47
+Sara Snyder,Massachusetts,East,Alice Davis,2016/03/21,Stuff,6,16.32,97.92
+Patrick Graham,California,West,Jimmy Warren,2016/03/21,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,Ryan Ramos,2016/03/21,Junk,9,12.42,111.78
+Frances Warren,New York,East,Helen Dean,2016/03/21,Junk,3,12.42,37.26
+Patrick Graham,Nevada,West,Kimberly Bennett,2016/03/22,Stuff,4,16.32,65.28
+Randy Watson,Massachusetts,East,Walter Meyer,2016/03/22,Stuff,1,16.32,16.32
+Sara Snyder,New York,East,Craig Mcdonald,2016/03/22,Junk,2,12.42,24.84
+Diane Gonzalez,Oregon,West,Gloria Mcdonald,2016/03/22,Junk,7,12.42,86.94
+Patrick Graham,Washington,West,Kathy Schmidt,2016/03/22,Stuff,6,16.32,97.92
+Diane Gonzalez,Washington,West,Annie Hunter,2016/03/22,Things,1,17.83,17.83
+Sara Snyder,Massachusetts,East,Jennifer Reyes,2016/03/22,Junk,1,12.42,12.42
+Randy Watson,Connecticut,East,Betty Hicks,2016/03/22,Junk,9,12.42,111.78
+Randy Watson,New York,East,Anthony Berry,2016/03/22,Junk,5,12.42,62.1
+Sara Snyder,Massachusetts,East,Steven Kelly,2016/03/22,Things,8,17.83,142.64
+Randy Watson,New York,East,Nancy Scott,2016/03/22,Things,6,17.83,106.98
+Randy Watson,Massachusetts,East,Lori Shaw,2016/03/22,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Jane Sims,2016/03/22,Things,3,17.83,53.49
+Sara Snyder,New York,East,Frances Campbell,2016/03/22,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Cheryl Williamson,2016/03/23,Stuff,7,16.32,114.24
+Sara Snyder,Massachusetts,East,Louise Green,2016/03/23,Stuff,7,16.32,114.24
+Diane Gonzalez,California,West,Joan Robinson,2016/03/23,Things,9,17.83,160.47
+Randy Watson,New Jersey,East,Emily Duncan,2016/03/23,Junk,4,12.42,49.68
+Patrick Graham,Oregon,West,Lois Fernandez,2016/03/23,Junk,1,12.42,12.42
+Randy Watson,New York,East,Anthony Berry,2016/03/23,Things,5,17.83,89.15
+Sara Snyder,Massachusetts,East,Eugene Flores,2016/03/23,Widgets,4,53.35,213.4
+Patrick Graham,Washington,West,Earl White,2016/03/23,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Phyllis Johnston,2016/03/23,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,George Hill,2016/03/23,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Gregory Thompson,2016/03/23,Stuff,9,16.32,146.88
+Sara Snyder,Massachusetts,East,Craig Collins,2016/03/23,Things,5,17.83,89.15
+Diane Gonzalez,Washington,West,Paula Ross,2016/03/23,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Mary Nelson,2016/03/23,Widgets,6,53.35,320.1
+Randy Watson,Massachusetts,East,Howard Adams,2016/03/23,Stuff,5,16.32,81.6
+Sara Snyder,New York,East,Linda Rose,2016/03/24,Junk,3,12.42,37.26
+Randy Watson,Massachusetts,East,Gregory Thompson,2016/03/24,Junk,3,12.42,37.26
+Patrick Graham,Nevada,West,Laura Mcdonald,2016/03/24,Widgets,4,53.35,213.4
+Randy Watson,Massachusetts,East,Howard Adams,2016/03/24,Junk,2,12.42,24.84
+Randy Watson,New York,East,Marilyn Martin,2016/03/24,Widgets,7,53.35,373.45
+Sara Snyder,New Jersey,East,Arthur Simmons,2016/03/24,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,Carol Pierce,2016/03/24,Things,9,17.83,160.47
+Diane Gonzalez,California,West,Andrew Adams,2016/03/24,Widgets,3,53.35,160.05
+Sara Snyder,New York,East,Louis Marshall,2016/03/24,Things,10,17.83,178.3
+Diane Gonzalez,Oregon,West,Clarence Bishop,2016/03/24,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Sean Carr,2016/03/24,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Lawrence Ruiz,2016/03/25,Widgets,5,53.35,266.75
+Patrick Graham,Washington,West,Gloria Morris,2016/03/25,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,George Hill,2016/03/25,Widgets,2,53.35,106.7
+Patrick Graham,Oregon,West,Roger Bell,2016/03/25,Things,3,17.83,53.49
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/03/25,Junk,7,12.42,86.94
+Frances Warren,New Jersey,East,Peter Brown,2016/03/25,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Raymond Collins,2016/03/25,Things,8,17.83,142.64
+Patrick Graham,California,West,Jimmy Warren,2016/03/25,Widgets,3,53.35,160.05
+Diane Gonzalez,Washington,West,Ernest Hernandez,2016/03/25,Things,9,17.83,160.47
+Patrick Graham,Washington,West,Cheryl Morris,2016/03/25,Stuff,3,16.32,48.96
+Sara Snyder,New York,East,Juan Reed,2016/03/25,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Lawrence Ruiz,2016/03/25,Things,1,17.83,17.83
+Randy Watson,New York,East,Robert Hayes,2016/03/25,Widgets,4,53.35,213.4
+Frances Warren,New York,East,Evelyn Greene,2016/03/25,Things,8,17.83,142.64
+Frances Warren,Connecticut,East,Henry Cox,2016/03/26,Junk,9,12.42,111.78
+Randy Watson,Massachusetts,East,Mary Nelson,2016/03/26,Widgets,2,53.35,106.7
+Sara Snyder,Massachusetts,East,Eugene Schmidt,2016/03/26,Junk,6,12.42,74.52
+Patrick Graham,Washington,West,Ruby Gonzales,2016/03/26,Widgets,6,53.35,320.1
+Frances Warren,New York,East,Kimberly Little,2016/03/26,Things,2,17.83,35.66
+Frances Warren,New York,East,Louis Marshall,2016/03/26,Things,6,17.83,106.98
+Patrick Graham,Nevada,West,Michelle Elliott,2016/03/26,Widgets,4,53.35,213.4
+Sara Snyder,New Jersey,East,Marilyn Patterson,2016/03/26,Junk,2,12.42,24.84
+Diane Gonzalez,California,West,Martha Bell,2016/03/26,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Gloria Harper,2016/03/26,Widgets,9,53.35,480.15
+Sara Snyder,New Jersey,East,Michelle Henderson,2016/03/26,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Todd Spencer,2016/03/26,Stuff,6,16.32,97.92
+Patrick Graham,Washington,West,Annie Hughes,2016/03/26,Things,5,17.83,89.15
+Sara Snyder,New Jersey,East,Marilyn Patterson,2016/03/26,Widgets,2,53.35,106.7
+Sara Snyder,New York,East,Ruby Matthews,2016/03/26,Things,7,17.83,124.81
+Sara Snyder,New York,East,Nancy Stephens,2016/03/26,Things,1,17.83,17.83
+Patrick Graham,Washington,West,Joseph Dixon,2016/03/27,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Harry Hanson,2016/03/27,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Daniel Morris,2016/03/27,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Edward Cooper,2016/03/27,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Todd Spencer,2016/03/27,Widgets,7,53.35,373.45
+Diane Gonzalez,Washington,West,Beverly Garcia,2016/03/27,Junk,3,12.42,37.26
+Patrick Graham,California,West,Evelyn Elliott,2016/03/27,Junk,9,12.42,111.78
+Sara Snyder,New Jersey,East,William Hicks,2016/03/27,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Kenneth Gomez,2016/03/27,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Arthur Green,2016/03/27,Junk,5,12.42,62.1
+Randy Watson,Massachusetts,East,Phillip Johnston,2016/03/27,Junk,10,12.42,124.2
+Sara Snyder,New Jersey,East,Benjamin Willis,2016/03/27,Widgets,1,53.35,53.35
+Randy Watson,Massachusetts,East,Kevin Torres,2016/03/27,Junk,7,12.42,86.94
+Randy Watson,New York,East,Joe Ryan,2016/03/28,Junk,6,12.42,74.52
+Patrick Graham,Washington,West,Ruth Kennedy,2016/03/28,Junk,1,12.42,12.42
+Randy Watson,New York,East,Betty Stewart,2016/03/28,Stuff,5,16.32,81.6
+Randy Watson,New Jersey,East,Randy Willis,2016/03/28,Junk,5,12.42,62.1
+Diane Gonzalez,Washington,West,Charles Montgomery,2016/03/28,Things,7,17.83,124.81
+Sara Snyder,New York,East,Debra Allen,2016/03/28,Things,3,17.83,53.49
+Patrick Graham,Washington,West,Annie Hughes,2016/03/28,Junk,9,12.42,111.78
+Diane Gonzalez,California,West,Adam Garza,2016/03/28,Widgets,3,53.35,160.05
+Sara Snyder,Massachusetts,East,Carl Ford,2016/03/28,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Albert Dunn,2016/03/28,Widgets,6,53.35,320.1
+Frances Warren,New Jersey,East,Adam Russell,2016/03/28,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Jerry Butler,2016/03/29,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Robin Matthews,2016/03/29,Junk,5,12.42,62.1
+Patrick Graham,Washington,West,Craig Hicks,2016/03/29,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Carl Howard,2016/03/29,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Eric Robertson,2016/03/29,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Chris Gilbert,2016/03/29,Things,1,17.83,17.83
+Frances Warren,Massachusetts,East,Robin Matthews,2016/03/29,Stuff,6,16.32,97.92
+Sara Snyder,New York,East,Lillian Wood,2016/03/29,Widgets,9,53.35,480.15
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/03/29,Things,6,17.83,106.98
+Diane Gonzalez,Oregon,West,Gloria Oliver,2016/03/29,Stuff,4,16.32,65.28
+Sara Snyder,New York,East,Ruby Matthews,2016/03/29,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Samuel Daniels,2016/03/30,Stuff,4,16.32,65.28
+Diane Gonzalez,Nevada,West,Stephen Rice,2016/03/30,Stuff,10,16.32,163.2
+Sara Snyder,New Jersey,East,Cheryl Howard,2016/03/30,Things,7,17.83,124.81
+Sara Snyder,Connecticut,East,Russell Romero,2016/03/30,Things,6,17.83,106.98
+Patrick Graham,California,West,Deborah Gilbert,2016/03/30,Widgets,1,53.35,53.35
+Patrick Graham,California,West,Diane Lewis,2016/03/30,Junk,1,12.42,12.42
+Sara Snyder,Connecticut,East,Carlos Stephens,2016/03/30,Widgets,3,53.35,160.05
+Patrick Graham,Nevada,West,Paula Watson,2016/03/30,Widgets,3,53.35,160.05
+Sara Snyder,New York,East,Edward Cooper,2016/03/30,Things,4,17.83,71.32
+Patrick Graham,California,West,Andrew Adams,2016/03/31,Widgets,7,53.35,373.45
+Frances Warren,Connecticut,East,William Collins,2016/03/31,Things,9,17.83,160.47
+Diane Gonzalez,California,West,Deborah Gilbert,2016/03/31,Things,8,17.83,142.64
+Diane Gonzalez,Washington,West,Maria Romero,2016/05/01,Junk,1,12.42,12.42
+Sara Snyder,Connecticut,East,Betty Hicks,2016/05/01,Junk,5,12.42,62.1
+Randy Watson,Massachusetts,East,Joe Russell,2016/05/01,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Bruce Reynolds,2016/05/01,Junk,1,12.42,12.42
+Sara Snyder,New York,East,Louis Marshall,2016/05/01,Junk,4,12.42,49.68
+Sara Snyder,Massachusetts,East,Carolyn Scott,2016/05/02,Things,6,17.83,106.98
+Randy Watson,Massachusetts,East,Gregory Thompson,2016/05/02,Things,9,17.83,160.47
+Sara Snyder,New Jersey,East,Amy Olson,2016/05/02,Widgets,9,53.35,480.15
+Sara Snyder,Massachusetts,East,Janice Mason,2016/05/02,Widgets,10,53.35,533.5
+Sara Snyder,Massachusetts,East,Juan Olson,2016/05/02,Junk,9,12.42,111.78
+Patrick Graham,California,West,Laura Gutierrez,2016/05/02,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Sharon Rose,2016/05/02,Junk,2,12.42,24.84
+Sara Snyder,New Jersey,East,Peter Brown,2016/05/02,Things,8,17.83,142.64
+Randy Watson,Massachusetts,East,Jason Patterson,2016/05/02,Widgets,2,53.35,106.7
+Sara Snyder,New York,East,Tina Jones,2016/05/02,Junk,4,12.42,49.68
+Randy Watson,New York,East,Lawrence Ruiz,2016/05/02,Things,1,17.83,17.83
+Patrick Graham,California,West,Diane Lewis,2016/05/02,Junk,5,12.42,62.1
+Sara Snyder,Massachusetts,East,Thomas Robinson,2016/05/02,Stuff,9,16.32,146.88
+Randy Watson,Massachusetts,East,Juan Olson,2016/05/02,Junk,2,12.42,24.84
+Frances Warren,New York,East,Anne Fisher,2016/05/02,Widgets,1,53.35,53.35
+Randy Watson,Massachusetts,East,Gregory Thompson,2016/05/03,Junk,1,12.42,12.42
+Sara Snyder,New Jersey,East,James Wheeler,2016/05/03,Junk,7,12.42,86.94
+Randy Watson,New York,East,Anna Wheeler,2016/05/03,Widgets,4,53.35,213.4
+Patrick Graham,California,West,Timothy Gonzales,2016/05/03,Junk,7,12.42,86.94
+Frances Warren,Connecticut,East,Clarence Mason,2016/05/03,Widgets,8,53.35,426.8
+Frances Warren,New York,East,Kimberly Morris,2016/05/03,Things,9,17.83,160.47
+Sara Snyder,Massachusetts,East,Gregory Thompson,2016/05/03,Stuff,4,16.32,65.28
+Patrick Graham,California,West,Helen Diaz,2016/05/03,Junk,6,12.42,74.52
+Sara Snyder,New Jersey,East,Denise Mitchell,2016/05/03,Stuff,9,16.32,146.88
+Patrick Graham,Nevada,West,Craig Lewis,2016/05/03,Things,1,17.83,17.83
+Frances Warren,New York,East,Karen Gray,2016/05/03,Stuff,4,16.32,65.28
+Randy Watson,Massachusetts,East,Diana Pierce,2016/05/04,Junk,9,12.42,111.78
+Patrick Graham,California,West,Judy Lopez,2016/05/04,Widgets,6,53.35,320.1
+Patrick Graham,Oregon,West,Gary Moreno,2016/05/04,Junk,10,12.42,124.2
+Diane Gonzalez,Washington,West,Daniel Perez,2016/05/04,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Phyllis Johnston,2016/05/04,Widgets,9,53.35,480.15
+Diane Gonzalez,Oregon,West,Rachel Harris,2016/05/04,Widgets,5,53.35,266.75
+Diane Gonzalez,Washington,West,Evelyn Lane,2016/05/04,Junk,3,12.42,37.26
+Frances Warren,New York,East,Juan Wallace,2016/05/04,Widgets,10,53.35,533.5
+Sara Snyder,New York,East,Richard Walker,2016/05/04,Junk,6,12.42,74.52
+Patrick Graham,Oregon,West,Donald Ryan,2016/05/04,Junk,6,12.42,74.52
+Patrick Graham,California,West,Judy Lopez,2016/05/05,Junk,9,12.42,111.78
+Randy Watson,New Jersey,East,Cynthia Lewis,2016/05/05,Widgets,1,53.35,53.35
+Patrick Graham,California,West,Deborah Gilbert,2016/05/05,Widgets,4,53.35,213.4
+Sara Snyder,New York,East,Marilyn Perez,2016/05/05,Junk,6,12.42,74.52
+Sara Snyder,Connecticut,East,Anna Franklin,2016/05/05,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Mildred Hernandez,2016/05/05,Widgets,2,53.35,106.7
+Sara Snyder,New Jersey,East,Tammy Hart,2016/05/05,Things,6,17.83,106.98
+Sara Snyder,Connecticut,East,Benjamin Phillips,2016/05/05,Things,4,17.83,71.32
+Patrick Graham,Washington,West,Paula Ross,2016/05/05,Junk,4,12.42,49.68
+Randy Watson,Connecticut,East,Irene Franklin,2016/05/05,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Stephen Welch,2016/05/05,Widgets,4,53.35,213.4
+Sara Snyder,Connecticut,East,Theresa Kennedy,2016/05/05,Junk,3,12.42,37.26
+Patrick Graham,Oregon,West,Teresa Payne,2016/05/05,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Peter Gilbert,2016/05/05,Things,9,17.83,160.47
+Sara Snyder,New York,East,Kenneth Lane,2016/05/05,Junk,2,12.42,24.84
+Patrick Graham,California,West,Adam Garza,2016/05/05,Things,8,17.83,142.64
+Randy Watson,New York,East,Jennifer Black,2016/05/05,Stuff,3,16.32,48.96
+Sara Snyder,New Jersey,East,Frank Spencer,2016/05/05,Stuff,7,16.32,114.24
+Patrick Graham,Washington,West,Donald Lopez,2016/05/05,Junk,6,12.42,74.52
+Sara Snyder,Connecticut,East,Ashley Olson,2016/05/05,Stuff,8,16.32,130.56
+Diane Gonzalez,California,West,Adam Garza,2016/05/06,Things,9,17.83,160.47
+Patrick Graham,California,West,Helen Diaz,2016/05/06,Widgets,8,53.35,426.8
+Diane Gonzalez,Oregon,West,Brian Roberts,2016/05/06,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Michelle Allen,2016/05/06,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Tammy Hart,2016/05/06,Widgets,6,53.35,320.1
+Diane Gonzalez,Washington,West,Evelyn Lane,2016/05/06,Things,9,17.83,160.47
+Randy Watson,New Jersey,East,Marilyn Patterson,2016/05/06,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Mark Rogers,2016/05/06,Things,10,17.83,178.3
+Sara Snyder,New York,East,Joe Ryan,2016/05/06,Stuff,7,16.32,114.24
+Sara Snyder,Massachusetts,East,Robin Matthews,2016/05/06,Junk,4,12.42,49.68
+Frances Warren,New York,East,Frank Ramos,2016/05/07,Junk,1,12.42,12.42
+Patrick Graham,Oregon,West,Gary Moreno,2016/05/07,Junk,1,12.42,12.42
+Sara Snyder,New Jersey,East,Arthur Simmons,2016/05/07,Stuff,8,16.32,130.56
+Randy Watson,New York,East,Katherine Hayes,2016/05/07,Things,9,17.83,160.47
+Sara Snyder,New York,East,Cynthia Brooks,2016/05/07,Stuff,1,16.32,16.32
+Diane Gonzalez,Nevada,West,John Simpson,2016/05/07,Stuff,2,16.32,32.64
+Randy Watson,Massachusetts,East,Jeremy Richards,2016/05/07,Junk,10,12.42,124.2
+Patrick Graham,California,West,Andrea Washington,2016/05/07,Junk,7,12.42,86.94
+Sara Snyder,Massachusetts,East,Ryan Alvarez,2016/05/07,Things,1,17.83,17.83
+Diane Gonzalez,Washington,West,Joseph Dixon,2016/05/07,Stuff,3,16.32,48.96
+Patrick Graham,Oregon,West,Samuel Garza,2016/05/07,Things,2,17.83,35.66
+Patrick Graham,Washington,West,Stephanie Wallace,2016/05/07,Stuff,9,16.32,146.88
+Sara Snyder,New Jersey,East,Eric Ellis,2016/05/07,Things,1,17.83,17.83
+Randy Watson,New York,East,Harold Daniels,2016/05/07,Junk,8,12.42,99.36
+Patrick Graham,Washington,West,Jean Stephens,2016/05/07,Widgets,2,53.35,106.7
+Patrick Graham,Washington,West,Maria Romero,2016/05/07,Things,9,17.83,160.47
+Sara Snyder,New Jersey,East,Marilyn Patterson,2016/05/07,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Jeffrey Miller,2016/05/08,Junk,7,12.42,86.94
+Patrick Graham,California,West,Brenda Nelson,2016/05/08,Widgets,10,53.35,533.5
+Sara Snyder,Connecticut,East,Sandra Meyer,2016/05/08,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Heather Larson,2016/05/08,Junk,2,12.42,24.84
+Diane Gonzalez,Washington,West,Jennifer Adams,2016/05/08,Widgets,9,53.35,480.15
+Sara Snyder,Massachusetts,East,Carl Ford,2016/05/08,Things,1,17.83,17.83
+Frances Warren,Massachusetts,East,Jerry Smith,2016/05/08,Stuff,10,16.32,163.2
+Diane Gonzalez,Nevada,West,John Simpson,2016/05/08,Things,7,17.83,124.81
+Patrick Graham,Oregon,West,Kevin Garza,2016/05/08,Things,2,17.83,35.66
+Patrick Graham,Oregon,West,Gary Moreno,2016/05/08,Junk,10,12.42,124.2
+Patrick Graham,California,West,Nicholas Nguyen,2016/05/08,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Craig Mcdonald,2016/05/08,Junk,3,12.42,37.26
+Patrick Graham,California,West,Willie Oliver,2016/05/08,Things,4,17.83,71.32
+Frances Warren,New York,East,Annie Wilson,2016/05/09,Things,4,17.83,71.32
+Sara Snyder,Massachusetts,East,Eugene Hughes,2016/05/09,Widgets,1,53.35,53.35
+Diane Gonzalez,Oregon,West,Sharon Rice,2016/05/09,Widgets,3,53.35,160.05
+Diane Gonzalez,Nevada,West,Michelle Elliott,2016/05/09,Stuff,10,16.32,163.2
+Sara Snyder,New Jersey,East,Michelle Henderson,2016/05/09,Stuff,1,16.32,16.32
+Sara Snyder,Massachusetts,East,Eugene Schmidt,2016/05/09,Things,3,17.83,53.49
+Sara Snyder,New York,East,Chris Gilbert,2016/05/09,Things,5,17.83,89.15
+Randy Watson,Massachusetts,East,Joseph Bishop,2016/05/09,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Raymond Freeman,2016/05/09,Junk,10,12.42,124.2
+Sara Snyder,New York,East,Gloria Harper,2016/05/10,Junk,5,12.42,62.1
+Randy Watson,Massachusetts,East,Howard Adams,2016/05/10,Widgets,8,53.35,426.8
+Sara Snyder,Connecticut,East,Irene Franklin,2016/05/10,Junk,9,12.42,111.78
+Sara Snyder,Massachusetts,East,Louise Green,2016/05/10,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Susan Gomez,2016/05/10,Widgets,8,53.35,426.8
+Diane Gonzalez,Oregon,West,Rose Matthews,2016/05/10,Junk,1,12.42,12.42
+Frances Warren,Massachusetts,East,Lillian Burke,2016/05/10,Junk,7,12.42,86.94
+Randy Watson,New York,East,Mark Parker,2016/05/10,Widgets,2,53.35,106.7
+Sara Snyder,Connecticut,East,Brandon Morales,2016/05/10,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Teresa Walker,2016/05/10,Widgets,2,53.35,106.7
+Sara Snyder,New Jersey,East,Ronald Lopez,2016/05/10,Junk,1,12.42,12.42
+Randy Watson,New Jersey,East,Benjamin Willis,2016/05/10,Junk,3,12.42,37.26
+Patrick Graham,Oregon,West,Teresa Fisher,2016/05/10,Junk,7,12.42,86.94
+Patrick Graham,Washington,West,Joan Austin,2016/05/10,Stuff,4,16.32,65.28
+Sara Snyder,New Jersey,East,Amy Olson,2016/05/10,Things,2,17.83,35.66
+Patrick Graham,Nevada,West,Sandra Hughes,2016/05/10,Junk,6,12.42,74.52
+Patrick Graham,California,West,Andrew Adams,2016/05/10,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Martha Harper,2016/05/10,Junk,7,12.42,86.94
+Diane Gonzalez,Washington,West,Mildred Hernandez,2016/05/10,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Jean Stephens,2016/05/10,Junk,4,12.42,49.68
+Patrick Graham,California,West,Walter Reed,2016/05/11,Junk,7,12.42,86.94
+Frances Warren,Connecticut,East,Marilyn Perry,2016/05/11,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Phillip Johnston,2016/05/11,Junk,10,12.42,124.2
+Diane Gonzalez,California,West,Brenda Nelson,2016/05/11,Stuff,3,16.32,48.96
+Frances Warren,New York,East,Wayne Lawson,2016/05/11,Widgets,5,53.35,266.75
+Sara Snyder,Massachusetts,East,Todd Spencer,2016/05/11,Widgets,7,53.35,373.45
+Patrick Graham,Washington,West,Antonio Coleman,2016/05/11,Junk,6,12.42,74.52
+Diane Gonzalez,Washington,West,Gary Cook,2016/05/11,Things,4,17.83,71.32
+Sara Snyder,Connecticut,East,Raymond Clark,2016/05/11,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Eric Stanley,2016/05/11,Things,10,17.83,178.3
+Sara Snyder,Massachusetts,East,Frances Lane,2016/05/11,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Todd Spencer,2016/05/11,Stuff,2,16.32,32.64
+Sara Snyder,New York,East,Teresa Thomas,2016/05/11,Things,8,17.83,142.64
+Patrick Graham,Oregon,West,Edward Taylor,2016/05/11,Stuff,10,16.32,163.2
+Sara Snyder,Massachusetts,East,Amy Carr,2016/05/12,Junk,2,12.42,24.84
+Patrick Graham,California,West,Laura Gutierrez,2016/05/12,Junk,6,12.42,74.52
+Sara Snyder,New York,East,Lillian Wood,2016/05/12,Junk,9,12.42,111.78
+Diane Gonzalez,California,West,Harry Torres,2016/05/12,Junk,4,12.42,49.68
+Frances Warren,New Jersey,East,Albert Dunn,2016/05/12,Stuff,10,16.32,163.2
+Randy Watson,New York,East,Christina Little,2016/05/12,Junk,7,12.42,86.94
+Patrick Graham,California,West,Laura Gutierrez,2016/05/12,Widgets,9,53.35,480.15
+Patrick Graham,Washington,West,Gary Cook,2016/05/12,Things,6,17.83,106.98
+Sara Snyder,Massachusetts,East,Shirley Rivera,2016/05/12,Widgets,10,53.35,533.5
+Sara Snyder,Massachusetts,East,Ryan Alvarez,2016/05/12,Widgets,3,53.35,160.05
+Patrick Graham,Oregon,West,Kevin Garza,2016/05/13,Junk,3,12.42,37.26
+Randy Watson,New York,East,Louise Frazier,2016/05/13,Stuff,9,16.32,146.88
+Diane Gonzalez,Washington,West,Earl Morales,2016/05/13,Junk,1,12.42,12.42
+Sara Snyder,New York,East,Gerald Phillips,2016/05/13,Stuff,5,16.32,81.6
+Frances Warren,Connecticut,East,Lois Baker,2016/05/13,Widgets,8,53.35,426.8
+Patrick Graham,Washington,West,Jerry Collins,2016/05/13,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,Jane Ramirez,2016/05/13,Things,1,17.83,17.83
+Diane Gonzalez,California,West,Ann Hall,2016/05/13,Junk,4,12.42,49.68
+Randy Watson,Massachusetts,East,Christopher Pierce,2016/05/13,Things,10,17.83,178.3
+Sara Snyder,New York,East,Anthony Berry,2016/05/14,Widgets,8,53.35,426.8
+Sara Snyder,New York,East,Antonio Mason,2016/05/14,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Ernest Bishop,2016/05/14,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Emily Duncan,2016/05/14,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Denise Perez,2016/05/14,Junk,5,12.42,62.1
+Sara Snyder,New York,East,Harold Hunter,2016/05/14,Things,4,17.83,71.32
+Diane Gonzalez,Oregon,West,Lillian Howard,2016/05/14,Junk,4,12.42,49.68
+Randy Watson,New York,East,Randy Burton,2016/05/14,Stuff,10,16.32,163.2
+Patrick Graham,Nevada,West,Laura Mcdonald,2016/05/14,Widgets,9,53.35,480.15
+Sara Snyder,New York,East,Kimberly Adams,2016/05/14,Things,8,17.83,142.64
+Sara Snyder,New Jersey,East,Judy Carpenter,2016/05/14,Junk,4,12.42,49.68
+Frances Warren,Connecticut,East,Brandon Morales,2016/05/14,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Eugene Flores,2016/05/15,Stuff,3,16.32,48.96
+Sara Snyder,New York,East,Wayne Rivera,2016/05/15,Things,5,17.83,89.15
+Sara Snyder,New York,East,Billy Reed,2016/05/15,Junk,4,12.42,49.68
+Patrick Graham,Oregon,West,Samuel Garza,2016/05/15,Widgets,2,53.35,106.7
+Randy Watson,Connecticut,East,Lois Baker,2016/05/15,Widgets,4,53.35,213.4
+Sara Snyder,Massachusetts,East,Kathryn Fox,2016/05/15,Widgets,8,53.35,426.8
+Patrick Graham,Washington,West,Joseph Dixon,2016/05/15,Junk,5,12.42,62.1
+Diane Gonzalez,California,West,Adam Martin,2016/05/15,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Martha Bryant,2016/05/15,Junk,5,12.42,62.1
+Randy Watson,New Jersey,East,Maria Hughes,2016/05/16,Stuff,9,16.32,146.88
+Sara Snyder,Massachusetts,East,Carl Ford,2016/05/16,Things,5,17.83,89.15
+Frances Warren,Massachusetts,East,Paul Perkins,2016/05/16,Junk,6,12.42,74.52
+Diane Gonzalez,Oregon,West,Phillip Harrison,2016/05/16,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Anthony Ruiz,2016/05/16,Junk,6,12.42,74.52
+Sara Snyder,Massachusetts,East,Carolyn Vasquez,2016/05/16,Widgets,6,53.35,320.1
+Patrick Graham,Washington,West,Kimberly Lee,2016/05/16,Widgets,7,53.35,373.45
+Diane Gonzalez,Washington,West,Annie Hunter,2016/05/16,Junk,2,12.42,24.84
+Diane Gonzalez,Oregon,West,Joyce Garcia,2016/05/16,Widgets,1,53.35,53.35
+Sara Snyder,New York,East,Joshua Campbell,2016/05/16,Junk,4,12.42,49.68
+Frances Warren,Connecticut,East,William Collins,2016/05/16,Widgets,7,53.35,373.45
+Sara Snyder,New York,East,Joseph Ryan,2016/05/16,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Mark Parker,2016/05/16,Things,5,17.83,89.15
+Patrick Graham,Oregon,West,Sharon Wagner,2016/05/16,Stuff,5,16.32,81.6
+Sara Snyder,Massachusetts,East,Jeremy Richards,2016/05/16,Widgets,4,53.35,213.4
+Patrick Graham,Oregon,West,Lois Fernandez,2016/05/16,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Christina Oliver,2016/05/16,Things,4,17.83,71.32
+Patrick Graham,Oregon,West,Edward Taylor,2016/05/16,Junk,4,12.42,49.68
+Randy Watson,New York,East,Roy Collins,2016/05/17,Widgets,8,53.35,426.8
+Sara Snyder,New York,East,Betty Stewart,2016/05/17,Junk,7,12.42,86.94
+Frances Warren,New York,East,Ruby Matthews,2016/05/17,Junk,2,12.42,24.84
+Randy Watson,New York,East,Louise Frazier,2016/05/17,Widgets,4,53.35,213.4
+Randy Watson,Massachusetts,East,Lillian Burke,2016/05/17,Widgets,4,53.35,213.4
+Sara Snyder,New York,East,Evelyn Greene,2016/05/17,Widgets,7,53.35,373.45
+Patrick Graham,Washington,West,Aaron Boyd,2016/05/17,Junk,9,12.42,111.78
+Diane Gonzalez,Oregon,West,Jeremy Diaz,2016/05/17,Widgets,7,53.35,373.45
+Diane Gonzalez,Washington,West,Pamela Alexander,2016/05/17,Widgets,3,53.35,160.05
+Sara Snyder,Connecticut,East,Raymond Clark,2016/05/17,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Gregory Richardson,2016/05/17,Junk,6,12.42,74.52
+Randy Watson,Connecticut,East,Ashley Olson,2016/05/17,Widgets,8,53.35,426.8
+Frances Warren,New York,East,Annie Wilson,2016/05/17,Junk,3,12.42,37.26
+Patrick Graham,Washington,West,Denise Henry,2016/05/17,Junk,2,12.42,24.84
+Randy Watson,New York,East,Sharon Rose,2016/05/18,Widgets,6,53.35,320.1
+Frances Warren,New York,East,Roy Collins,2016/05/18,Widgets,9,53.35,480.15
+Randy Watson,New Jersey,East,Johnny Fowler,2016/05/18,Widgets,1,53.35,53.35
+Sara Snyder,New Jersey,East,Victor Bell,2016/05/18,Widgets,7,53.35,373.45
+Patrick Graham,Nevada,West,Stephen Rice,2016/05/18,Junk,5,12.42,62.1
+Randy Watson,New Jersey,East,Ruth Fields,2016/05/18,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Alan Cole,2016/05/18,Stuff,7,16.32,114.24
+Sara Snyder,New York,East,Daniel Morris,2016/05/18,Junk,10,12.42,124.2
+Randy Watson,New York,East,Mark Alexander,2016/05/18,Things,2,17.83,35.66
+Patrick Graham,Washington,West,Karen Willis,2016/05/18,Widgets,3,53.35,160.05
+Patrick Graham,Oregon,West,Wanda Allen,2016/05/18,Stuff,1,16.32,16.32
+Patrick Graham,California,West,Andrea Washington,2016/05/18,Junk,9,12.42,111.78
+Patrick Graham,Oregon,West,Julie Gonzalez,2016/05/18,Things,7,17.83,124.81
+Diane Gonzalez,California,West,Frank Garrett,2016/05/18,Junk,5,12.42,62.1
+Randy Watson,New York,East,Wayne Lawson,2016/05/18,Widgets,9,53.35,480.15
+Patrick Graham,Washington,West,Ruth Kennedy,2016/05/19,Junk,10,12.42,124.2
+Patrick Graham,California,West,Edward Foster,2016/05/19,Junk,4,12.42,49.68
+Frances Warren,Connecticut,East,Scott Weaver,2016/05/19,Widgets,2,53.35,106.7
+Patrick Graham,Washington,West,Jason Berry,2016/05/19,Stuff,3,16.32,48.96
+Frances Warren,Massachusetts,East,Louise Rivera,2016/05/19,Things,5,17.83,89.15
+Sara Snyder,New York,East,Christina Little,2016/05/19,Widgets,10,53.35,533.5
+Patrick Graham,California,West,Kenneth James,2016/05/19,Things,8,17.83,142.64
+Diane Gonzalez,California,West,Kenneth James,2016/05/19,Junk,9,12.42,111.78
+Diane Gonzalez,Washington,West,Christine Wallace,2016/05/19,Things,8,17.83,142.64
+Sara Snyder,Massachusetts,East,Alan Romero,2016/05/19,Widgets,9,53.35,480.15
+Randy Watson,New York,East,Albert Miller,2016/05/20,Junk,9,12.42,111.78
+Frances Warren,New York,East,Edward Cooper,2016/05/20,Junk,5,12.42,62.1
+Patrick Graham,Washington,West,Craig Reyes,2016/05/20,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Jerry Smith,2016/05/20,Junk,10,12.42,124.2
+Patrick Graham,Washington,West,Jean Stephens,2016/05/20,Junk,1,12.42,12.42
+Randy Watson,New York,East,Frank Owens,2016/05/20,Stuff,6,16.32,97.92
+Patrick Graham,Oregon,West,Donald Ryan,2016/05/20,Widgets,10,53.35,533.5
+Sara Snyder,Massachusetts,East,Eugene Schmidt,2016/05/20,Widgets,1,53.35,53.35
+Sara Snyder,Connecticut,East,Katherine Carroll,2016/05/20,Things,4,17.83,71.32
+Patrick Graham,Washington,West,Earl White,2016/05/20,Junk,1,12.42,12.42
+Randy Watson,Massachusetts,East,Randy West,2016/05/20,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Emily Patterson,2016/05/20,Stuff,3,16.32,48.96
+Randy Watson,New Jersey,East,Lisa Thomas,2016/05/20,Things,6,17.83,106.98
+Sara Snyder,New York,East,Eugene Wilson,2016/05/20,Junk,3,12.42,37.26
+Patrick Graham,Nevada,West,Doris Diaz,2016/05/20,Things,8,17.83,142.64
+Frances Warren,Connecticut,East,Ashley Olson,2016/05/21,Junk,2,12.42,24.84
+Patrick Graham,Oregon,West,Kathy Lee,2016/05/21,Junk,8,12.42,99.36
+Sara Snyder,New Jersey,East,Joseph Foster,2016/05/21,Junk,9,12.42,111.78
+Patrick Graham,Washington,West,Gregory Richardson,2016/05/21,Junk,2,12.42,24.84
+Randy Watson,New York,East,Roy Collins,2016/05/21,Junk,2,12.42,24.84
+Patrick Graham,Washington,West,Jerry Collins,2016/05/21,Junk,3,12.42,37.26
+Patrick Graham,California,West,Rachel Stanley,2016/05/21,Widgets,3,53.35,160.05
+Patrick Graham,Oregon,West,Anna Garcia,2016/05/21,Stuff,7,16.32,114.24
+Diane Gonzalez,Nevada,West,Stephen Rice,2016/05/21,Things,8,17.83,142.64
+Frances Warren,New Jersey,East,Ashley Adams,2016/05/21,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Jerry Butler,2016/05/21,Junk,2,12.42,24.84
+Sara Snyder,Massachusetts,East,Carl Ford,2016/05/21,Widgets,1,53.35,53.35
+Patrick Graham,Washington,West,Russell Cooper,2016/05/21,Things,8,17.83,142.64
+Sara Snyder,New York,East,Steven Simpson,2016/05/21,Widgets,3,53.35,160.05
+Diane Gonzalez,California,West,Benjamin Carpenter,2016/05/21,Junk,4,12.42,49.68
+Sara Snyder,New York,East,Jane Sims,2016/05/21,Junk,7,12.42,86.94
+Randy Watson,New Jersey,East,Denise Mitchell,2016/05/21,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Lisa Thomas,2016/05/21,Things,6,17.83,106.98
+Randy Watson,New Jersey,East,Martha Mills,2016/05/21,Widgets,8,53.35,426.8
+Patrick Graham,California,West,Tina Schmidt,2016/05/22,Junk,7,12.42,86.94
+Sara Snyder,New York,East,Irene Wells,2016/05/22,Things,1,17.83,17.83
+Patrick Graham,Washington,West,Jerry Davis,2016/05/22,Widgets,4,53.35,213.4
+Patrick Graham,Washington,West,Earl White,2016/05/22,Things,4,17.83,71.32
+Randy Watson,New York,East,Kenneth Lane,2016/05/22,Junk,5,12.42,62.1
+Randy Watson,New York,East,Maria Johnston,2016/05/22,Things,5,17.83,89.15
+Patrick Graham,California,West,Frank Garrett,2016/05/22,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Cynthia Lewis,2016/05/22,Widgets,3,53.35,160.05
+Patrick Graham,Washington,West,Evelyn Lane,2016/05/22,Stuff,7,16.32,114.24
+Diane Gonzalez,Oregon,West,Julie Gonzalez,2016/05/22,Junk,5,12.42,62.1
+Diane Gonzalez,Oregon,West,Henry Stanley,2016/05/22,Widgets,8,53.35,426.8
+Patrick Graham,Washington,West,Mary Green,2016/05/22,Junk,2,12.42,24.84
+Diane Gonzalez,Washington,West,Earl White,2016/05/22,Things,7,17.83,124.81
+Patrick Graham,Washington,West,Emily Matthews,2016/05/22,Widgets,6,53.35,320.1
+Sara Snyder,Massachusetts,East,Lillian Burke,2016/05/22,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Kimberly Little,2016/05/23,Junk,3,12.42,37.26
+Diane Gonzalez,Washington,West,Henry Sanders,2016/05/23,Things,7,17.83,124.81
+Patrick Graham,Oregon,West,Marilyn Graham,2016/05/23,Things,10,17.83,178.3
+Patrick Graham,California,West,Brenda Nelson,2016/05/23,Widgets,5,53.35,266.75
+Sara Snyder,New Jersey,East,Lisa Thomas,2016/05/23,Junk,2,12.42,24.84
+Randy Watson,Massachusetts,East,Aaron Morris,2016/05/23,Junk,7,12.42,86.94
+Sara Snyder,New Jersey,East,Edward Wells,2016/05/23,Junk,4,12.42,49.68
+Sara Snyder,New Jersey,East,Brian Ryan,2016/05/23,Junk,1,12.42,12.42
+Sara Snyder,Massachusetts,East,Eugene Schmidt,2016/05/23,Widgets,1,53.35,53.35
+Sara Snyder,New York,East,Marie Rivera,2016/05/23,Junk,2,12.42,24.84
+Sara Snyder,New Jersey,East,Phyllis Gonzales,2016/05/23,Widgets,5,53.35,266.75
+Sara Snyder,New Jersey,East,Debra Barnes,2016/05/23,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Alan Allen,2016/05/23,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Matthew Carter,2016/05/23,Things,1,17.83,17.83
+Sara Snyder,New York,East,Roy Collins,2016/05/23,Widgets,7,53.35,373.45
+Sara Snyder,Massachusetts,East,Amy Carr,2016/05/23,Junk,8,12.42,99.36
+Sara Snyder,Massachusetts,East,Craig Collins,2016/05/23,Junk,4,12.42,49.68
+Patrick Graham,Washington,West,Samuel Daniels,2016/05/24,Things,1,17.83,17.83
+Frances Warren,New York,East,Marie Rivera,2016/05/24,Widgets,7,53.35,373.45
+Sara Snyder,Massachusetts,East,Amy Carr,2016/05/24,Widgets,2,53.35,106.7
+Patrick Graham,California,West,Diane Lewis,2016/05/24,Things,4,17.83,71.32
+Sara Snyder,Massachusetts,East,Deborah Wells,2016/05/24,Junk,3,12.42,37.26
+Sara Snyder,New Jersey,East,Laura Wells,2016/05/24,Widgets,10,53.35,533.5
+Sara Snyder,Massachusetts,East,Martha Brown,2016/05/24,Stuff,10,16.32,163.2
+Randy Watson,New York,East,Gloria Harper,2016/05/24,Stuff,7,16.32,114.24
+Randy Watson,New Jersey,East,Donna Bryant,2016/05/24,Junk,2,12.42,24.84
+Diane Gonzalez,California,West,Michelle Sanchez,2016/05/24,Junk,9,12.42,111.78
+Sara Snyder,New York,East,Kenneth Lane,2016/05/25,Things,9,17.83,160.47
+Randy Watson,New York,East,Nicholas Howell,2016/05/25,Stuff,5,16.32,81.6
+Sara Snyder,New Jersey,East,Heather Larson,2016/05/25,Junk,3,12.42,37.26
+Randy Watson,New Jersey,East,Ernest Bishop,2016/05/25,Junk,7,12.42,86.94
+Sara Snyder,Connecticut,East,Scott Weaver,2016/05/25,Junk,9,12.42,111.78
+Patrick Graham,Washington,West,Daniel Perez,2016/05/25,Things,6,17.83,106.98
+Sara Snyder,New York,East,Judith Woods,2016/05/25,Stuff,5,16.32,81.6
+Randy Watson,New York,East,Cynthia Ray,2016/05/25,Junk,3,12.42,37.26
+Patrick Graham,Nevada,West,Sandra Hughes,2016/05/25,Things,1,17.83,17.83
+Patrick Graham,Oregon,West,Jean Griffin,2016/05/25,Stuff,3,16.32,48.96
+Sara Snyder,Massachusetts,East,Alice Davis,2016/05/25,Things,7,17.83,124.81
+Sara Snyder,New Jersey,East,Joseph Foster,2016/05/25,Stuff,1,16.32,16.32
+Randy Watson,New York,East,Martha Bryant,2016/05/26,Widgets,4,53.35,213.4
+Patrick Graham,California,West,Harold Duncan,2016/05/26,Things,5,17.83,89.15
+Patrick Graham,Oregon,West,Kevin Garza,2016/05/26,Things,2,17.83,35.66
+Sara Snyder,Massachusetts,East,Walter Kennedy,2016/05/26,Junk,8,12.42,99.36
+Sara Snyder,New York,East,Shirley Morrison,2016/05/26,Things,8,17.83,142.64
+Patrick Graham,California,West,Rachel Stanley,2016/05/26,Widgets,10,53.35,533.5
+Patrick Graham,Oregon,West,Teresa Fisher,2016/05/26,Things,4,17.83,71.32
+Sara Snyder,Connecticut,East,Lois Baker,2016/05/26,Things,10,17.83,178.3
+Sara Snyder,Massachusetts,East,Martha Brown,2016/05/26,Junk,5,12.42,62.1
+Patrick Graham,Oregon,West,Clarence Bishop,2016/05/26,Widgets,4,53.35,213.4
+Patrick Graham,Oregon,West,Michael Cruz,2016/05/26,Junk,4,12.42,49.68
+Frances Warren,New Jersey,East,Ronald Lopez,2016/05/26,Junk,9,12.42,111.78
+Randy Watson,New Jersey,East,Victor Watson,2016/05/26,Stuff,10,16.32,163.2
+Sara Snyder,New York,East,Randy Burton,2016/05/27,Stuff,2,16.32,32.64
+Frances Warren,New Jersey,East,Randy Willis,2016/05/27,Things,10,17.83,178.3
+Sara Snyder,New York,East,Eric Stanley,2016/05/27,Junk,4,12.42,49.68
+Frances Warren,New York,East,Peter Gilbert,2016/05/27,Junk,1,12.42,12.42
+Frances Warren,New York,East,Janice Jackson,2016/05/27,Junk,2,12.42,24.84
+Randy Watson,New Jersey,East,Johnny Fowler,2016/05/27,Things,7,17.83,124.81
+Diane Gonzalez,Nevada,West,Laura Lewis,2016/05/27,Widgets,3,53.35,160.05
+Randy Watson,Massachusetts,East,Lori Shaw,2016/05/27,Junk,9,12.42,111.78
+Frances Warren,New York,East,Janet Freeman,2016/05/27,Widgets,1,53.35,53.35
+Diane Gonzalez,Nevada,West,Paula Watson,2016/05/28,Junk,3,12.42,37.26
+Randy Watson,New York,East,Lillian Wood,2016/05/28,Widgets,9,53.35,480.15
+Patrick Graham,California,West,Timothy Gonzales,2016/05/28,Things,1,17.83,17.83
+Patrick Graham,Washington,West,Terry Nguyen,2016/05/28,Junk,8,12.42,99.36
+Patrick Graham,Oregon,West,Rachel Harris,2016/05/28,Stuff,5,16.32,81.6
+Sara Snyder,Massachusetts,East,Andrea King,2016/05/28,Stuff,2,16.32,32.64
+Sara Snyder,Massachusetts,East,Ann Duncan,2016/05/28,Junk,5,12.42,62.1
+Sara Snyder,New Jersey,East,Debra Barnes,2016/05/29,Junk,2,12.42,24.84
+Sara Snyder,New York,East,Betty Stewart,2016/05/29,Things,2,17.83,35.66
+Frances Warren,Connecticut,East,Scott Weaver,2016/05/29,Things,10,17.83,178.3
+Frances Warren,New York,East,Eugene Wilson,2016/05/29,Widgets,8,53.35,426.8
+Diane Gonzalez,California,West,Diana Hamilton,2016/05/29,Junk,10,12.42,124.2
+Sara Snyder,Massachusetts,East,Lori Shaw,2016/05/29,Junk,3,12.42,37.26
+Sara Snyder,New York,East,Ashley Spencer,2016/05/29,Stuff,5,16.32,81.6
+Patrick Graham,Washington,West,Joan Austin,2016/05/29,Widgets,10,53.35,533.5
+Randy Watson,Massachusetts,East,Bobby Mitchell,2016/05/29,Stuff,2,16.32,32.64
+Frances Warren,New York,East,Jerry Pierce,2016/05/29,Junk,5,12.42,62.1
+Patrick Graham,Washington,West,Christine Wallace,2016/05/29,Junk,6,12.42,74.52
+Patrick Graham,California,West,Frances Parker,2016/05/29,Junk,6,12.42,74.52
+Patrick Graham,California,West,Norma West,2016/05/29,Junk,2,12.42,24.84
+Diane Gonzalez,California,West,Angela Fowler,2016/05/29,Things,8,17.83,142.64
+Patrick Graham,California,West,Joan Robinson,2016/05/29,Stuff,9,16.32,146.88
+Sara Snyder,Massachusetts,East,Gary Young,2016/05/29,Widgets,1,53.35,53.35
+Patrick Graham,California,West,Ann Hall,2016/05/29,Stuff,2,16.32,32.64
+Patrick Graham,Oregon,West,Rachel Harris,2016/05/29,Things,8,17.83,142.64
+Patrick Graham,California,West,Anthony White,2016/05/30,Widgets,3,53.35,160.05
+Patrick Graham,Washington,West,Aaron Boyd,2016/05/30,Stuff,1,16.32,16.32
+Randy Watson,New York,East,Janice Jackson,2016/05/30,Things,8,17.83,142.64
+Sara Snyder,New Jersey,East,Debra Barnes,2016/05/30,Things,2,17.83,35.66
+Randy Watson,New York,East,Louis Mason,2016/05/30,Widgets,1,53.35,53.35
