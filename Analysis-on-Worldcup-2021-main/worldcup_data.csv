@@ -1,0 +1,34 @@
+,team_1,team_2,stage,Winner_toss,Toss_descision,time,venue,avg_temperature,best_bowler,bowling_arm,bowling_style,most_individual_wickets,economy,best_bowler_country,best_batter,batting_hand,high_indvidual_scores,strike_rate,best_batter_team,target,target_achieved,Player_of_the_match,Winner
+Match_1,Australia,SouthAfrica,Group_stage,Australia,Fielding,afternoon,Abu_Dhabi,30,Josh_Hazlewood,Right,Pacer,2,4.8,Australia,Aiden_Markram,Right,40,111.1,SouthAfrica,119,1,Josh_Hazlewood,Australia
+Match_2,England,Windies,Group_stage,England,Fielding,evening,Dubai,33,Adil_Rashid,Right,Leg_spin,4,0.9,England,Jos_Buttler,Right,24,109.1,England,56,1,Moeen_Ali,England
+Match_3,Srilanka,Bangladesh,Group_stage,Srilanka,Fielding,afternoon,Sharjah,34,Shakib_al_Hassan,Left,Off_spin,2,5.67,Bangladesh,Charith_Asalanka,Left,80,163.2,Srilanka,172,1,Charith_Asalanka,Srilanka
+Match_4,Pakistan,India,Group_stage,Pakistan,Fielding,evening,Dubai,34,Shaheen_shah,Left,Pacer,3,7.75,Pakistan,Muhammad_Rizwan,Right,79,143.6,Pakistan,152,1,Shaheen_shah,Pakistan
+Match_5,Afghanistan,Scotland,Group_stage,Afghanistan,Batting,evening,Sharjah,33,Mujeeb_ur_Rehman,Right,Off_spin,5,5.0,Afghanistan,Najibullah_Zadran,Left,59,173.53,Afghanistan,191,0,Mujeeb_ur_Rehman,Afghanistan
+Match_6,SouthAfrica,Windies,Group_stage,SouthAfrica,Fielding,afternoon,Dubai,33,Dwaine_Pretorious,Right,Pacer,3,8.05,SouthAfrica,Evin_Lewis,Left,56,160.0,Windies,144,1,Anrich_Nortje,SouthAfrica
+Match_7,Pakistan,New_Zealand,Group_stage,Pakistan,Fielding,evening,Sharjah,29,Haris_Rauf,Right,Pacer,4,5.5,Pakistan,Muhammad_Rizwan,Right,33,97.06,Pakistan,135,1,Haris_Rauf,Pakistan
+Match_8,England,Bangladesh,Group_stage,Bangladesh,Batting,afternoon,Abu_Dhabi,30,Tymal_Mills,Left,Pacer,3,6.75,England,Jason_Roy,Right,61,160.5,England,125,1,Jason_Roy,England
+Match_9,Namibia,ScotLand,Group_stage,Namibia,Fielding,evening,Abu_Dhabi,29,Ruben_Trumpelmann,Left,Pacer,3,4.25,Namibia,Michael_Leask,Right,44,162.9,ScotLand,110,1,Ruben_Trumpelmann,Namibia
+Match_10,Australia,Srilanka,Group_stage,Australia,Fielding,evening,Dubai,28,Adam_Zampa,Right,Leg_spin,2,3.0,Australia,David_Warner,Left,65,154.76,Australia,155,1,Adam_Zampa,Australia
+Match_11,Windies,Bangladesh,Group_stage,Bangladesh,Fielding,afternoon,Sharjah,30,Shoriful_Islam,Left,Pacer,2,5.0,Bangladesh,Liton_Das,Right,40,102.3,Bangladesh,140,1,Nicholas_Pooran,Windies
+Match_12,Pakistan,Afghanistan,Group_stage,Afghanistan,Batting,evening,Dubai,30,Imad_Wasim,Left,Orthodox,2,6.25,Pakistan,Babar_Azam,Right,51,108.5,Pakistan,148,1,Asif_Ali,Pakistan
+Match_13,SouthAfrica,Srilanka,Group_stage,SouthAfrica,Fielding,afternoon,Sharjah,31,Tabraiz_Shamsi,Left,Unorthodox,3,4.25,SouthAfrica,Pathum_Nissanka,Right,72,124.14,Srilanka,143,1,Tabraiz_Shamsi,SouthAfrica
+Match_14,England,Australia,Group_stage,England,Fielding,evening,Dubai,30,Criss_Jordan,Right,Pacer,3,4.25,England,Jos_Buttler,Right,71,221.8,England,126,1,Chris_Jordan,England
+Match_15,Afghanistan,Namibia,Group_stage,Afghanistan,Batting,afternoon,Abu_Dhabi,30,Hamid_Hassan,Right,Pacer,3,2.25,Afghanistan,Mohammad_Shahzad,Right,45,136.36,Afghanistan,161,0,Naveen_ul_Haq,Afghanistan
+Match_16,New_Zealand,India,Group_stage,New_Zealand,Fielding,evening,Dubai,30,Trent_Boult,Left,Pacer,3,5.0,New_Zealand,Daryl_Mitchell,Right,49,140.0,New_Zealand,111,1,Trent_Boult,New_Zealand
+Match_17,England,Srilanka,Group_stage,Srilanka,Fielding,evening,Sharjah,28,Wanindu_Hasaranga,Right,Leg_spin,3,5.25,Srilanka,Jos_Buttler,Right,101,150.75,England,164,0,Jos_Buttler,England
+Match_18,SouthAfrica,Bangladesh,Group_stage,SouthAfrica,Fielding,afternoon,Abu_Dhabi,30,Anrich_Nortje,Right,Pacer,3,2.4,SouthAfrica,Temaba_Bavuma,Right,31,110.7,SouthAfrica,85,1,Kagiso_Rabada,SouthAfrica
+Match_19,Pakistan,Namibia,Group_stage,Pakistan,Batting,evening,Abu_Dhabi,29,Imad_wasim,Left,Orthodox,1,4.3,Pakistan,Muhammad_Rizwan,Right,79,158.0,Pakistan,190,0,Muhammad_Rizwan,Pakistan
+Match_20,New_Zealand,ScotLand,Group_stage,New_Zealand,Fielding,afternoon,Dubai,29,Safyaan_Sharif,Right,Pacer,2,7.0,ScotLand,Martin_Guptill,Right,93,166.07,New_Zealand,173,0,Martin_Guptill,New_Zealand
+Match_21,India,Afghanistan,Group_stage,Afghanistan,Fielding,evening,Abu_Dhabi,29,Mohammed Shami,Right,Pacer,3,8.0,India,Rohit_Sharma,Right,74,157.45,India,211,0,Rohit_Sharma,India
+Match_22,Australia,Bangladesh,Group_stage,Australia,Fielding,afternoon,Dubai,29,Adam_Zampa,Right,Leg_spin,5,4.75,Australia,Aaron_Finch,Right,40,200.0,Australia,74,1,Adam_Zampa,Australia
+Match_23,Srilanka,Windies,Group_stage,Windies,Fielding,evening,Abu_Dhabi,28,Wanindu_Hasaranga,Right,Leg_spin,2,4.75,Srilanka,Shimron_Hetmyer,Left,81,150.0,Windies,190,0,Chrith_Adalanka,Srilanka
+Match_24,New_Zealand,Namibia,Group_stage,Namibia,Fielding,afternoon,Sharjah,28,Tim_Southee,Right,Pacer,2,3.75,New_Zealand,Glenn_Phillips,Right,39,185.71,New_Zealand,164,0,James_Neesham,New_Zealand
+Match_25,India,ScotLand,Group_stage,India,Fielding,evening,Dubai,28,Ravindra_Jadeja,Left,Orthodox,3,3.75,India,KL_Rahul,Right,50,263.16,India,86,1,Ravindra_Jadeja,India
+Match_26,Australia,Windies,Group_stage,Australia,Fielding,afternoon,Abu_Dhabi,20,Josh_Hazlewood,Right,Pacer,4,9.75,Australia,David_Warner,Left,89,158.93,Australia,158,1,David_Warner,Australia
+Match_27,SouthAfrica,England,Group_stage,England,Fielding,evening,Sharjah,27,Kagiso_Rabada,Right,Pacer,3,12.0,SouthAfrica,Rassie van der Dussen,Right,94,156.67,SouthAfrica,190,0,Rassie_van_der_Dussen,SouthAfrica
+Match_28,New_Zealand,Afghanistan,Group_stage,Afghanistan,Batting,afternoon,Abu_Dhabi,29,Trent_Boult,Left,Pacer,3,4.25,New_Zealand,Najibullah_Zadran,Left,73,152.08,Afghanistan,125,1,Trent_Boult,New_Zealand
+Match_29,Pakistan,ScotLand,Group_stage,Pakistan,Batting,evening,Sharjah,27,Shadab_Khan,Right,Leg_spin,2,3.5,Pakistan,Babar_Azam,Right,66,140.43,Pakistan,190,0,Shoaib_Malik,Pakistan
+Match_30,India,Namibia,Group_stage,India,Fielding,evening,Dubai,28,Ravindra_Jadeja,Left,Orthodox,3,4.0,India,Rohit_Sharma,Right,56,151.35,India,133,1,Ravindra_Jadeja,India
+Match_31,New_Zealand,England,Semi_Final,New_Zealand,Fielding,evening,Abu_Dhabi,28,Liam_Livingstone,Right,Leg_spin,2,5.5,England,Daryl_Mitchell,Right,72,153.19,New_Zealand,167,1,Daryl_Mitchell,New_Zealand
+Match_32,Australia,Pakistan,Semi_Final,Australia,Fielding,evening,Dubai,29,Shadab_Khan,Right,Leg_spin,4,6.5,Pakistan,Muhammad_Rizwan,Right,67,128.85,Pakistan,177,1,Matthew_Wade,Australia
+Match_33,Australia,New_Zealand,Final,Australia,Fielding,evening,Dubai,26,Josh_Hazlewood,Right,Pacer,3,4.0,Australia,Kane_Williamson,Right,85,177.08,New_Zealand,173,1,Mitchell_Marsh,Australia
